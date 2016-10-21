@@ -1,0 +1,502 @@
+am going
+7.0
+going to
+7.0
+I will
+7.0
+what time
+6.0
+are you
+5.0
+too I
+4.0
+about the
+4.0
+do it
+4.0
+Im not
+4.0
+I get
+4.0
+a drink
+4.0
+me a
+4.0
+if you
+4.0
+in the
+4.0
+know the
+4.0
+I know
+4.0
+a 3Com
+3.0
+have to
+3.0
+saturday and
+3.0
+do I
+3.0
+yeah what
+3.0
+late I
+3.0
+back next
+3.0
+sure about
+3.0
+weekend if
+3.0
+Computing, a
+3.0
+be around
+3.0
+will be
+3.0
+to be
+3.0
+I am
+3.0
+the feeling
+3.0
+coming back
+3.0
+How about
+3.0
+at 5:00
+3.0
+and matty,
+3.0
+not, what
+3.0
+ok but
+3.0
+vacation this
+3.0
+sunday. How
+3.0
+going on
+3.0
+and coming
+3.0
+where are
+3.0
+sorry about
+3.0
+matty, I
+3.0
+i didnt
+3.0
+in my
+3.0
+we going
+3.0
+I cant
+3.0
+you leaving
+3.0
+definately working
+3.0
+what happen
+3.0
+my drink
+3.0
+can do
+3.0
+you can
+3.0
+time are
+3.0
+on vacation
+3.0
+will think
+3.0
+out, Im
+3.0
+you owe
+3.0
+I woke
+3.0
+this saturday
+3.0
+that I
+3.0
+a little
+3.0
+I actually
+3.0
+get my
+3.0
+now you
+3.0
+did you
+3.0
+when do
+3.0
+think of
+3.0
+yes, I
+3.0
+are we
+3.0
+next sunday.
+3.0
+day weekend
+3.0
+leaving today
+3.0
+working out,
+3.0
+of somewhere
+3.0
+about drinking
+3.0
+memorial day
+3.0
+woke up
+3.0
+following saturday
+3.0
+to puerto
+3.0
+unfortunately not,
+3.0
+me too
+3.0
+puerto rico
+3.0
+not sure
+3.0
+the following
+3.0
+sarah and
+3.0
+cant sorry
+3.0
+about that
+3.0
+thats ok
+3.0
+my car
+3.0
+rico with
+3.0
+around memorial
+3.0
+owe me
+3.0
+but now
+3.0
+actually am
+3.0
+up late
+3.0
+with sarah
+3.0
+it is
+2.0
+I understand
+2.0
+am going to
+4.0
+where are we
+3.0
+yeah what happen
+3.0
+you leaving today
+3.0
+rico with sarah
+3.0
+woke up late
+3.0
+what time are
+3.0
+and matty, I
+3.0
+are we going
+3.0
+I get my
+3.0
+weekend if you
+3.0
+me a drink
+3.0
+about the following
+3.0
+I will think
+3.0
+sorry about that
+3.0
+out, Im not
+3.0
+coming back next
+3.0
+vacation this saturday
+3.0
+I actually am
+3.0
+memorial day weekend
+3.0
+actually am going
+3.0
+sunday. How about
+3.0
+I will be
+3.0
+know the feeling
+3.0
+this saturday and
+3.0
+now you owe
+3.0
+going to puerto
+3.0
+yes, I am
+3.0
+will think of
+3.0
+that I woke
+3.0
+back next sunday.
+3.0
+sure about drinking
+3.0
+Computing, a 3Com
+3.0
+up late I
+3.0
+not sure about
+3.0
+day weekend if
+3.0
+am going on
+3.0
+when do I
+3.0
+will be around
+3.0
+unfortunately not, what
+3.0
+are you leaving
+3.0
+you can do
+3.0
+Im not sure
+3.0
+matty, I will
+3.0
+I cant sorry
+3.0
+too I will
+3.0
+owe me a
+3.0
+definately working out,
+3.0
+going on vacation
+3.0
+think of somewhere
+3.0
+if you can
+3.0
+thats ok but
+3.0
+sarah and matty,
+3.0
+on vacation this
+3.0
+be around memorial
+3.0
+get my drink
+3.0
+but now you
+3.0
+and coming back
+3.0
+with sarah and
+3.0
+time are you
+3.0
+saturday and coming
+3.0
+puerto rico with
+3.0
+not, what time
+3.0
+can do it
+3.0
+next sunday. How
+3.0
+to puerto rico
+3.0
+about that I
+3.0
+you owe me
+3.0
+I woke up
+3.0
+do I get
+3.0
+around memorial day
+3.0
+I am going
+3.0
+I know the
+3.0
+the following saturday
+3.0
+ok but now
+3.0
+me too I
+3.0
+in my car
+3.0
+working out, Im
+3.0
+How about the
+3.0
+the feeling where
+2.0
+we going me
+2.0
+of somewhere unfortunately
+2.0
+feeling where are
+2.0
+somewhere unfortunately not,
+2.0
+you dont have
+2.0
+dont have to
+2.0
+going me too
+2.0
+late I know
+2.0
+drinking I cant
+2.0
+its your bday
+2.0
+today in my
+2.0
+what happen what
+2.0
+happen what time
+2.0
+happy bday to
+2.0
+have to be
+2.0
+leaving today in
+2.0
+not going to
+2.0
+about drinking I
+2.0
+you might be
+1.0
+much better thanks
+1.0
+I
+39.0
+i
+22.0
+a
+18.0
+it
+18.0
+going
+13.0
+me
+13.0
+about
+12.0
+know
+11.0
+are
+10.0
+be
+10.0
+in
+10.0
+will
+10.0
+do
+9.0
+just
+9.0
+not
+9.0
+ok
+9.0
+am
+8.0
+get
+8.0
+sorry
+8.0
+time
+8.0
+drink
+7.0
+have
+7.0
+think
+7.0
+but
+6.0
+saturday
+6.0
+too
+6.0
+cant
+5.0
+now
+5.0
+so
+5.0
+around
+4.0
+at
+4.0
+can
+4.0
+coming
+4.0
+day
+4.0
+did
+4.0
+go
+4.0
+is
+4.0
+leaving
+4.0
+nice
+4.0
+on
+4.0
+today
+4.0
+want
+4.0
+was
+4.0
+yeah
+4.0
+actually
+3.0
+as
+3.0
+back
+3.0
+been
+3.0
+better
+3.0
+car
+3.0
+26.0
+28.0

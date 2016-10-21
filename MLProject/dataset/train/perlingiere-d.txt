@@ -1,0 +1,502 @@
+Enron North
+1910.0
+North America
+1903.0
+Debra Perlingiere
+1876.0
+Texas 77002
+1862.0
+1400 Smith
+1862.0
+Street, EB
+1861.0
+Perlingiere Enron
+1861.0
+Houston, Texas
+1861.0
+Smith Street,
+1861.0
+3885 Houston,
+1861.0
+EB 3885
+1861.0
+America Corp.
+1619.0
+Phone 713-853-7658
+1585.0
+Fax 713-646-3490
+1585.0
+713-853-7658 Fax
+1585.0
+77002 dperlin@enron.com
+1553.0
+dperlin@enron.com Phone
+1553.0
+Department 1400
+1316.0
+Legal Department
+1316.0
+Corp. Legal
+1316.0
+I will
+335.0
+of the
+324.0
+I have
+287.0
+America Legal
+276.0
+Legal 1400
+276.0
+713-853-7658 713-646-3490
+276.0
+713-646-3490 Fax
+276.0
+Corp. 1400
+269.0
+Regards, Debra
+263.0
+for your
+258.0
+to the
+239.0
+me a
+231.0
+77002 dperlin@enron
+219.0
+dperlin@enron 713-853-7658
+219.0
+give me
+203.0
+713-646-3490 I
+203.0
+I am
+196.0
+you have
+179.0
+let me
+168.0
+in the
+165.0
+a call
+163.0
+me know
+146.0
+draft of
+145.0
+do not
+145.0
+713-646-3490 Please
+143.0
+the attached
+143.0
+is a
+139.0
+for the
+134.0
+is the
+129.0
+see the
+127.0
+have any
+120.0
+Please let
+117.0
+if you
+114.0
+please see
+114.0
+a Master
+106.0
+will be
+105.0
+know if
+104.0
+Please see
+102.0
+of a
+98.0
+Thanks! Debra
+98.0
+a draft
+97.0
+to our
+92.0
+have a
+84.0
+Thanks for
+82.0
+hesitate to
+81.0
+not hesitate
+80.0
+on the
+80.0
+Do you
+78.0
+regards, Debra
+78.0
+Best regards,
+78.0
+713-646-3490 Debra
+77.0
+regarding the
+77.0
+any questions
+75.0
+Master Firm
+73.0
+to give
+72.0
+Further to
+72.0
+and or
+71.0
+the Master
+71.0
+Please give
+70.0
+at the
+70.0
+Attached is
+69.0
+to my
+67.0
+agree to
+67.0
+to discuss
+67.0
+like to
+66.0
+to be
+66.0
+your review.
+64.0
+would like
+64.0
+I can
+64.0
+need to
+63.0
+to your
+63.0
+Thanks Debra
+62.0
+and I
+62.0
+questions and
+61.0
+Here is
+61.0
+our conversation,
+59.0
+Please do
+59.0
+Firm Purchase/Sale
+58.0
+you may
+57.0
+Debra.Perlingiere@enron.com 713-853-7658
+57.0
+Enron North America
+1903.0
+1400 Smith Street,
+1861.0
+Debra Perlingiere Enron
+1861.0
+Street, EB 3885
+1861.0
+Houston, Texas 77002
+1861.0
+EB 3885 Houston,
+1861.0
+Perlingiere Enron North
+1861.0
+Smith Street, EB
+1861.0
+3885 Houston, Texas
+1861.0
+North America Corp.
+1617.0
+Phone 713-853-7658 Fax
+1585.0
+713-853-7658 Fax 713-646-3490
+1585.0
+dperlin@enron.com Phone 713-853-7658
+1553.0
+Texas 77002 dperlin@enron.com
+1553.0
+77002 dperlin@enron.com Phone
+1553.0
+America Corp. Legal
+1316.0
+Legal Department 1400
+1316.0
+Corp. Legal Department
+1316.0
+Department 1400 Smith
+1316.0
+America Legal 1400
+276.0
+North America Legal
+276.0
+Legal 1400 Smith
+276.0
+713-853-7658 713-646-3490 Fax
+276.0
+Corp. 1400 Smith
+269.0
+America Corp. 1400
+269.0
+Regards, Debra Perlingiere
+261.0
+77002 dperlin@enron 713-853-7658
+219.0
+dperlin@enron 713-853-7658 713-646-3490
+219.0
+Texas 77002 dperlin@enron
+219.0
+Fax 713-646-3490 I
+203.0
+give me a
+188.0
+me a call
+158.0
+Fax 713-646-3490 Please
+143.0
+let me know
+121.0
+Please let me
+117.0
+you have any
+112.0
+see the attached
+102.0
+me know if
+100.0
+Thanks! Debra Perlingiere
+98.0
+not hesitate to
+80.0
+Best regards, Debra
+78.0
+regards, Debra Perlingiere
+77.0
+Fax 713-646-3490 Debra
+77.0
+do not hesitate
+77.0
+713-646-3490 Debra Perlingiere
+77.0
+please see the
+76.0
+a draft of
+72.0
+draft of a
+71.0
+Further to our
+70.0
+Please give me
+68.0
+to give me
+68.0
+I will be
+66.0
+know if you
+63.0
+for your review.
+63.0
+Thanks for your
+62.0
+if you have
+62.0
+hesitate to give
+61.0
+would like to
+61.0
+Thanks Debra Perlingiere
+61.0
+713-646-3490 Please see
+60.0
+to our conversation,
+59.0
+questions and or
+59.0
+Please do not
+58.0
+77002 Debra.Perlingiere@enron.com 713-853-7658
+57.0
+Debra.Perlingiere@enron.com 713-853-7658 713-646-3490
+57.0
+Texas 77002 Debra.Perlingiere@enron.com
+57.0
+Master Firm Purchase/Sale
+57.0
+please give me
+56.0
+is a draft
+56.0
+of a Master
+52.0
+a call with
+51.0
+713-646-3490 I have
+49.0
+with any questions
+46.0
+Here is the
+44.0
+dp Debra Perlingiere
+44.0
+Firm Purchase/Sale Agreement
+44.0
+attached draft of
+43.0
+Fax 713-646-3490 Thanks
+42.0
+and or comments
+42.0
+Attached is a
+42.0
+conversation, please see
+41.0
+you may have
+41.0
+713-646-3490 I will
+41.0
+I will forward
+40.0
+a call to
+40.0
+to my attention
+40.0
+Please see the
+39.0
+Fax 713-646-3490 As
+39.0
+may have regarding
+39.0
+our conversation, please
+39.0
+have any questions.
+38.0
+draft of the
+38.0
+Do you have
+38.0
+call with any
+38.0
+a Master Firm
+37.0
+regarding this matter.
+37.0
+of the Master
+35.0
+regarding the enclosed.
+35.0
+I do not
+34.0
+matter. Regards, Debra
+34.0
+North
+1914.0
+America
+1907.0
+Texas
+1878.0
+Fax
+1869.0
+Smith
+1865.0
+Legal
+1607.0
+Phone
+1586.0
+I
+1440.0
+Department
+1316.0
+a
+1183.0
+have
+746.0
+is
+724.0
+in
+685.0
+Please
+627.0
+me
+615.0
+or
+536.0
+will
+534.0
+be
+413.0
+any
+405.0
+not
+405.0
+as
+374.0
+are
+325.0
+please
+324.0
+on
+312.0
+Master
+284.0
+draft
+283.0
+see
+280.0
+attached
+253.0
+Thanks
+235.0
+do
+233.0
+at
+225.0
+give
+225.0
+regarding
+218.0
+know
+204.0
+credit
+202.0
+call
+199.0
+am
+197.0
+let
+189.0
+an
+177.0
+by
+175.0
+send
+175.0
+Agreement
+169.0
+agreement
+147.0
+may
+146.0
+Gas
+145.0
+it
+145.0
+has
+143.0
+can
+138.0
+need
+138.0
+sent
+136.0
+601.0
+309.0

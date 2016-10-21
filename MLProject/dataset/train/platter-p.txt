@@ -1,0 +1,502 @@
+0, 0,
+22.0
+1, 1,
+22.0
+Lkp.DateValue, Lkp.PeakOrOffPeak,
+12.0
+of the
+11.0
+in the
+9.0
+Lkp.DateTimeValue =
+8.0
+Where Lkp.DateTimeValue
+8.0
+I think
+8.0
+I am
+8.0
+will be
+8.0
+on the
+7.0
+to be
+6.0
+(Select Lkp.DateValue,
+6.0
+with the
+6.0
+to the
+6.0
+By Lkp.DateValue,
+6.0
+Group By
+6.0
+I have
+5.0
+LkpCalendar_Definitions Lkp
+5.0
+you are
+5.0
+have a
+5.0
+me know
+5.0
+Lkp Where
+5.0
+This is
+4.0
+should be
+4.0
+is the
+4.0
+for the
+4.0
+I don't
+4.0
+let me
+4.0
+and that
+4.0
+me a
+4.0
+with you
+4.0
+From (Select
+4.0
+have to
+4.0
+Lkp, CA_ISOExPost10Price
+3.0
+RT, LkpCalendar_Definitions
+3.0
+LkpCalendar_Definitions Lkp,
+3.0
+Avg(RT.Offer) RTOffer
+3.0
+Lkp.PeakOrOffPeak, RT.Entity,
+3.0
+Avg(ISO.PriceDec) Dec
+3.0
+can beat
+3.0
+is fine.
+3.0
+that I
+3.0
+you were
+3.0
+From LkpCalendar_Definitions
+3.0
+= RT.CADateTime
+3.0
+have been
+3.0
+CA_HourlyBidOffer RT,
+3.0
+Lkp.DateValue, Lkp.YearNum,
+3.0
+to Omaha
+3.0
+I will
+3.0
+a good
+3.0
+It is
+3.0
+Inc, Avg(ISO.PriceDec)
+3.0
+Select Lkp.DateValue,
+3.0
+the new
+3.0
+and they
+3.0
+avg(ISO.PriceInc) Inc,
+3.0
+in a
+3.0
+I would
+3.0
+I had
+3.0
+I want
+3.0
+RTBid, Avg(RT.Offer)
+3.0
+Avg(RT.Bid) RTBid,
+3.0
+Lkp.MonthNum, Lkp.DayOfWeekName,
+3.0
+DA.PeakOrOffPeak, DA.Price,
+3.0
+half of
+3.0
+it is
+3.0
+want to
+3.0
+RT.Entity, Avg(RT.Bid)
+3.0
+Dec From
+3.0
+the only
+3.0
+will need
+3.0
+is a
+3.0
+this is
+3.0
+one of
+3.0
+are the
+3.0
+Lkp.YearNum, Lkp.MonthNum,
+3.0
+out with
+3.0
+Let me
+3.0
+to see
+3.0
+if you
+3.0
+You are
+3.0
+From CA_HourlyBidOffer
+3.0
+= ISO.CADateTime
+3.0
+me in
+3.0
+about the
+3.0
+a line
+3.0
+I hope
+3.0
+RTOffer From
+3.0
+7-22 f,s,m,t
+2.0
+DA.Price, RT.RTBid,
+2.0
+and I
+2.0
+was not
+2.0
+which was
+2.0
+we have
+2.0
+problem is
+2.0
+as if
+2.0
+may be
+2.0
+to go
+2.0
+0, 0, 0,
+21.0
+1, 1, 1,
+21.0
+Where Lkp.DateTimeValue =
+8.0
+Group By Lkp.DateValue,
+6.0
+By Lkp.DateValue, Lkp.PeakOrOffPeak,
+6.0
+(Select Lkp.DateValue, Lkp.PeakOrOffPeak,
+6.0
+Lkp Where Lkp.DateTimeValue
+5.0
+LkpCalendar_Definitions Lkp Where
+5.0
+From (Select Lkp.DateValue,
+4.0
+let me know
+3.0
+Avg(RT.Bid) RTBid, Avg(RT.Offer)
+3.0
+RTOffer From CA_HourlyBidOffer
+3.0
+Lkp.DateTimeValue = ISO.CADateTime
+3.0
+Lkp.DateValue, Lkp.PeakOrOffPeak, RT.Entity,
+3.0
+avg(ISO.PriceInc) Inc, Avg(ISO.PriceDec)
+3.0
+Avg(RT.Offer) RTOffer From
+3.0
+From LkpCalendar_Definitions Lkp,
+3.0
+RT.Entity, Avg(RT.Bid) RTBid,
+3.0
+Avg(ISO.PriceDec) Dec From
+3.0
+RT, LkpCalendar_Definitions Lkp
+3.0
+Lkp.YearNum, Lkp.MonthNum, Lkp.DayOfWeekName,
+3.0
+Lkp.DateValue, Lkp.YearNum, Lkp.MonthNum,
+3.0
+I want to
+3.0
+From CA_HourlyBidOffer RT,
+3.0
+Select Lkp.DateValue, Lkp.YearNum,
+3.0
+Inc, Avg(ISO.PriceDec) Dec
+3.0
+CA_HourlyBidOffer RT, LkpCalendar_Definitions
+3.0
+RTBid, Avg(RT.Offer) RTOffer
+3.0
+Lkp.PeakOrOffPeak, RT.Entity, Avg(RT.Bid)
+3.0
+LkpCalendar_Definitions Lkp, CA_ISOExPost10Price
+3.0
+Dec From LkpCalendar_Definitions
+3.0
+Lkp.DateTimeValue = RT.CADateTime
+3.0
+(Select DA.CADateTime, DA.ZoneCode,
+2.0
+Beauty.ZoneCode, Beauty.PeakOrOffPeak, Beauty.Price,
+2.0
+a line to
+2.0
+CA_ISOExPost10Price ISO Where
+2.0
+AND RT.PeakOrOffPeak =
+2.0
+to Omaha the
+2.0
+the first of
+2.0
+position you have
+2.0
+DA.PeakOrOffPeak, DA.Price, RT.RTBid,
+2.0
+AND Lkp.DateValue =
+2.0
+DA.Price, RT.RTBid, RT.RTOffer,
+2.0
+Lkp.DateValue, Lkp.PeakOrOffPeak, RT.Entity)
+2.0
+Beauty.PeakOrOffPeak = ISO.PeakOrOffPeak
+2.0
+Lkp.DateTimeValue = Beauty.CADateTime
+2.0
+Beauty.Short, ISO.Inc, ISO.Dec,
+2.0
+Beauty, LkpCalendar_Definitions Lkp
+2.0
+EPMI SELLS EES
+2.0
+Who is the
+2.0
+((DA.Price)-RT.RTOffer) Short From
+2.0
+ISO.ZoneCode, avg(ISO.PriceInc) Inc,
+2.0
+get together with
+2.0
+ISOLong From (Select
+2.0
+= ISO.CADateTime Group
+2.0
+ISO.PeakOrOffPeak AND Lkp.DateValue
+2.0
+I hope you
+2.0
+that I am
+2.0
+What is the
+2.0
+DA.ZoneCode, DA.PeakOrOffPeak, DA.Price,
+2.0
+Long, ((DA.Price)-RT.RTOffer) Short
+2.0
+RT.CADateTime Group By
+2.0
+fights with their
+2.0
+f,s,m,t rtc sun
+2.0
+Paloverde Heavy Load
+2.0
+Heavy Load 10mw
+2.0
+= DA.PeakOrOffPeak) Beauty,
+2.0
+1-6,23-24 f,s,m,t rtc
+2.0
+ISO Where Lkp.DateTimeValue
+2.0
+is in the
+2.0
+all of the
+2.0
+ISO.Inc, ISO.Dec, (Beauty.Price-ISO.Inc)
+2.0
+= DA.ZoneCode AND
+2.0
+have fights with
+2.0
+to return to
+2.0
+will be the
+2.0
+hope you are
+2.0
+ORDER BY LKP.DATEVALUE
+2.0
+Lkp.PeakOrOffPeak, ISO.ZoneCode, avg(ISO.PriceInc)
+2.0
+My pick for
+2.0
+Lkp.MonthNum, Lkp.DayOfWeekName, Beauty.ZoneCode,
+2.0
+and ask if
+2.0
+the only ones
+2.0
+Beauty.Long, Beauty.Short, ISO.Inc,
+2.0
+RT.Entity = DA.ZoneCode
+2.0
+RT.RTOffer, ((RT.RTBid)-DA.Price) Long,
+2.0
+drop me a
+2.0
+ISO.Dec, (Beauty.Price-ISO.Inc) ISOShort,
+2.0
+sign me up
+2.0
+((RT.RTBid)-DA.Price) Long, ((DA.Price)-RT.RTOffer)
+2.0
+= DA.CADateTime AND
+2.0
+of us are
+2.0
+Beauty.CADateTime AND Beauty.PeakOrOffPeak
+2.0
+of the other
+2.0
+Where RT.Entity =
+2.0
+me a line
+2.0
+Please let me
+2.0
+Lkp, CA_ISOExPost10Price ISO
+2.0
+DA.CADateTime, DA.ZoneCode, DA.PeakOrOffPeak,
+2.0
+You are right,
+2.0
+I
+87.0
+is
+53.0
+a
+50.0
+in
+39.0
+be
+31.0
+have
+31.0
+are
+30.0
+on
+30.0
+me
+24.0
+will
+24.0
+not
+18.0
+was
+18.0
+it
+16.0
+at
+15.0
+get
+13.0
+had
+13.0
+some
+13.0
+out
+12.0
+think
+12.0
+up
+12.0
+all
+11.0
+an
+11.0
+but
+11.0
+like
+11.0
+he
+10.0
+or
+10.0
+were
+10.0
+any
+9.0
+good
+9.0
+only
+9.0
+It
+8.0
+am
+8.0
+by
+8.0
+know
+8.0
+By
+7.0
+about
+7.0
+as
+7.0
+can
+7.0
+every
+7.0
+last
+7.0
+need
+7.0
+Group
+6.0
+Please
+6.0
+been
+6.0
+deals
+6.0
+do
+6.0
+his
+6.0
+new
+6.0
+other
+6.0
+see
+6.0
+80.0
+33.0

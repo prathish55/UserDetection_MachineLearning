@@ -1,0 +1,502 @@
+> >
+667.0
+i am
+476.0
+i will
+371.0
+going to
+305.0
+it is
+195.0
+i think
+191.0
+if you
+159.0
+are you
+158.0
+i don't
+154.0
+let me
+147.0
+did you
+144.0
+i have
+141.0
+am going
+139.0
+need to
+134.0
+i was
+132.0
+want to
+129.0
+to go
+126.0
+me know
+119.0
+will be
+118.0
+that is
+117.0
+you guys
+104.0
+you are
+101.0
+in the
+100.0
+but i
+100.0
+is a
+99.0
+go to
+99.0
+to get
+96.0
+to the
+92.0
+is the
+92.0
+for the
+92.0
+of the
+92.0
+and i
+92.0
+on the
+88.0
+i didn't
+85.0
+you get
+85.0
+we can
+84.0
+i need
+84.0
+at the
+83.0
+it was
+83.0
+have a
+81.0
+get a
+80.0
+to be
+80.0
+have to
+79.0
+what is
+78.0
+a good
+75.0
+we are
+70.0
+is going
+69.0
+when you
+66.0
+try to
+64.0
+i can
+64.0
+do you
+62.0
+think i
+62.0
+i got
+61.0
+i just
+61.0
+know if
+59.0
+b/c i
+59.0
+you going
+59.0
+go out
+59.0
+me a
+57.0
+we will
+55.0
+i would
+55.0
+you can
+54.0
+are going
+54.0
+how was
+54.0
+up for
+53.0
+i heard
+52.0
+so i
+51.0
+give me
+50.0
+this weekend.
+50.0
+a call
+49.0
+you want
+49.0
+you have
+49.0
+going out
+48.0
+went to
+48.0
+know what
+47.0
+if i
+46.0
+a lot
+46.0
+it. i
+46.0
+should be
+45.0
+to do
+45.0
+be a
+45.0
+i had
+45.0
+think you
+44.0
+can get
+43.0
+don't think
+43.0
+what are
+43.0
+and then
+42.0
+would be
+42.0
+for a
+42.0
+there is
+41.0
+they are
+41.0
+i haven't
+41.0
+weekend. i
+41.0
+and we
+41.0
+out of
+41.0
+> >"The
+40.0
+will get
+40.0
+when i
+40.0
+how is
+40.0
+am not
+40.0
+> > >
+479.0
+i am going
+137.0
+am going to
+120.0
+let me know
+111.0
+i will be
+74.0
+i need to
+64.0
+are you going
+49.0
+i think i
+49.0
+me know if
+43.0
+to go to
+43.0
+when you get
+42.0
+are going to
+42.0
+know if you
+42.0
+give me a
+41.0
+you get a
+40.0
+> > >"The
+40.0
+i am not
+40.0
+what are you
+39.0
+will try to
+37.0
+i have a
+37.0
+i don't think
+36.0
+i will try
+36.0
+if you are
+35.0
+you want to
+35.0
+you going to
+34.0
+me know what
+32.0
+is going to
+31.0
+me a call
+31.0
+i don't know
+31.0
+i have to
+30.0
+we are going
+30.0
+i think you
+29.0
+and i will
+29.0
+what is going
+28.0
+don't want to
+28.0
+i went to
+28.0
+will give you
+27.0
+get a chance.
+27.0
+it is a
+27.0
+i will get
+27.0
+we can get
+26.0
+a lot of
+26.0
+i want to
+26.0
+we need to
+25.0
+i will give
+24.0
+i will let
+24.0
+going to be
+24.0
+i don't want
+23.0
+be able to
+23.0
+give you a
+23.0
+let me know.
+23.0
+will let you
+23.0
+i think that
+22.0
+i didn't get
+22.0
+i will call
+22.0
+think i am
+22.0
+this weekend. i
+22.0
+i think we
+21.0
+if you want
+20.0
+did you get
+20.0
+will be in
+20.0
+want to go
+20.0
+you need to
+19.0
+i am gonna
+19.0
+what did you
+18.0
+talk to you
+18.0
+that is the
+18.0
+sorry i didn't
+18.0
+have to go
+18.0
+going to go
+18.0
+that i am
+17.0
+if you guys
+17.0
+are you doing
+17.0
+going to the
+17.0
+need to get
+17.0
+to go out
+17.0
+how was your
+17.0
+try to call
+16.0
+is going on?
+16.0
+i am just
+16.0
+i don't have
+16.0
+there is a
+16.0
+and we can
+16.0
+do you want
+15.0
+be a good
+15.0
+you have to
+15.0
+a couple of
+15.0
+are you guys
+15.0
+how is everything
+15.0
+did you go
+15.0
+know what you
+14.0
+you a call
+14.0
+i had a
+14.0
+what is up
+14.0
+you are going
+14.0
+you going out
+14.0
+but i am
+14.0
+me know when
+14.0
+i had to
+14.0
+this weekend? i
+14.0
+i
+2978.0
+a
+1149.0
+is
+1071.0
+it
+685.0
+will
+557.0
+in
+536.0
+are
+528.0
+am
+490.0
+going
+476.0
+on
+470.0
+was
+466.0
+me
+465.0
+get
+454.0
+have
+451.0
+be
+407.0
+at
+392.0
+go
+336.0
+out
+325.0
+just
+309.0
+up
+289.0
+think
+278.0
+can
+261.0
+know
+254.0
+so
+239.0
+like
+221.0
+but
+217.0
+do
+212.0
+did
+211.0
+or
+201.0
+let
+199.0
+need
+193.0
+good
+184.0
+some
+181.0
+there
+179.0
+call
+176.0
+want
+162.0
+all
+160.0
+not
+160.0
+he
+152.0
+about
+135.0
+guys
+123.0
+one
+122.0
+new
+120.0
+got
+119.0
+last
+118.0
+time
+110.0
+work
+107.0
+back
+106.0
+give
+103.0
+see
+99.0
+1338.0
+704.0

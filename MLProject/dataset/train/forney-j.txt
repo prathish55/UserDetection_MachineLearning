@@ -1,0 +1,502 @@
+<OMNI$UpdatedBy>CN=3DJohn M
+1044.0
+Forney/OU=3DHOU/O=3DECT</OMNI$UpdatedBy= >
+1044.0
+M Forney/OU=3DHOU/O=3DECT</OMNI$UpdatedBy=
+1044.0
+M Forney/OU=3DHOU/O=3DECT</OMNIChair>
+1039.0
+imeRange> <OMNIDuration>1</OMNIDuration>
+1039.0
+</OMNICalendarEntry> <OMNICalendarEntry>
+1039.0
+<OMNIChair>CN=3DJohn M
+1039.0
+<OMNIForm>Appointment</OMNIForm> <OMNIExcludeFromView>D</OMNIExcludeFromView>
+1039.0
+<OMNIDuration>1</OMNIDuration> <OMNIOrgDontDoubleBook>1</OMNIOrgDontDoubleBook>
+1033.0
+Forney/OU=3DHOU/O=3DECT</OMNIChair> <OMNIOrgTable>C0</OMNIOrgTable>
+1033.0
+<OMNIExcludeFromView>D</OMNIExcludeFromView> <OMNI$PublicAccess>1</OMNI$PublicAccess>
+1024.0
+> </OMNICalendarEntry>
+1024.0
+<OMNI$PublicAccess>1</OMNI$PublicAccess> <OMNIChair>CN=3DJohn
+1023.0
+Forney/OU=3DHOU/O=3DECT</OMNIPrincipal> <OMNIAppointmentType>0</OMNIAppointmentType>
+1017.0
+<OMNIOrgTable>C0</OMNIOrgTable> <OMNI$BusyName>CN=3DJohn
+1017.0
+<OMNIPrincipal>CN=3DJohn M
+1017.0
+M Forney/OU=3DHOU/O=3DECT</OMNI$BusyName>
+1017.0
+Forney/OU=3DHOU/O=3DECT</OMNI$BusyName> <OMNI$Busy>1</OMNI$Busy>
+1017.0
+<OMNIAppointmentType>0</OMNIAppointmentType> <OMNI_ViewIcon>160</OMNI_ViewIcon>
+1017.0
+M Forney/OU=3DHOU/O=3DECT</OMNIPrincipal>
+1017.0
+<OMNI$BusyPriority>1</OMNI$BusyPriority> <OMNIPrincipal>CN=3DJohn
+1017.0
+<OMNI$BusyName>CN=3DJohn M
+1017.0
+<OMNI$Busy>1</OMNI$Busy> <OMNI$BusyPriority>1</OMNI$BusyPriority>
+1017.0
+PM</OMNICreatedDate> <OMNIForm>Appointment</OMNIForm>
+975.0
+PM</OMNIT= imeRange>
+870.0
+AM</OMNIT= imeRange>
+169.0
+10:00:00 AM</OMNIStartDateTime>
+143.0
+10:00:00 AM</OMNIStartDate>
+143.0
+10:00:00 AM</OMNICalendarDateTime>
+143.0
+10:00:00 AM</OMNIOriginalDateTime>
+142.0
+10:00:00 AM</OMNIReminderTime>
+142.0
+11:00:00 AM</OMNIEndDateTime>
+138.0
+11:00:00 AM</OMNIT=
+138.0
+11:00:00 AM</OMNI$NoPurge>
+138.0
+11:00:00 AM</OMNICalendarDateTime>
+135.0
+11:00:00 AM</OMNIOriginalDateTime>
+135.0
+11:00:00 AM</OMNIStartDate>
+135.0
+11:00:00 AM</OMNIReminderTime>
+135.0
+11:00:00 AM</OMNIStartDateTime>
+135.0
+12:00:00 PM</OMNI$NoPurge>
+134.0
+12:00:00 PM</OMNIT=
+134.0
+12:00:00 PM</OMNIEndDateTime>
+134.0
+01:00:00 PM</OMNIT=
+129.0
+01:00:00 PM</OMNI$NoPurge>
+129.0
+01:00:00 PM</OMNIEndDateTime>
+129.0
+12:00:00 PM</OMNICalendarDateTime>
+123.0
+12:00:00 PM</OMNIStartDateTime>
+123.0
+12:00:00 PM</OMNIReminderTime>
+123.0
+12:00:00 PM</OMNIOriginalDateTime>
+123.0
+12:00:00 PM</OMNIStartDate>
+123.0
+02:00:00 PM</OMNIEndDateTime>
+122.0
+01:00:00 PM</OMNIStartDate>
+122.0
+02:00:00 PM</OMNIT=
+122.0
+02:00:00 PM</OMNI$NoPurge>
+122.0
+01:00:00 PM</OMNIReminderTime>
+122.0
+01:00:00 PM</OMNICalendarDateTime>
+122.0
+01:00:00 PM</OMNIOriginalDateTime>
+122.0
+01:00:00 PM</OMNIStartDateTime>
+122.0
+I am
+102.0
+in the
+102.0
+will be
+97.0
+Thanks, JMF
+93.0
+02:00:00 PM</OMNICalendarDateTime>
+90.0
+02:00:00 PM</OMNIOriginalDateTime>
+90.0
+02:00:00 PM</OMNIStartDate>
+90.0
+02:00:00 PM</OMNIStartDateTime>
+90.0
+02:00:00 PM</OMNIReminderTime>
+90.0
+03:00:00 PM</OMNIEndDateTime>
+88.0
+03:00:00 PM</OMNIT=
+88.0
+03:00:00 PM</OMNI$NoPurge>
+88.0
+I have
+84.0
+for the
+74.0
+of the
+73.0
+05:00:00 PM</OMNI$NoPurge>
+72.0
+05:00:00 PM</OMNIT=
+72.0
+05:00:00 PM</OMNIEndDateTime>
+72.0
+04:00:00 PM</OMNIStartDate>
+71.0
+04:00:00 PM</OMNIStartDateTime>
+71.0
+04:00:00 PM</OMNIReminderTime>
+71.0
+04:00:00 PM</OMNICalendarDateTime>
+71.0
+I will
+71.0
+04:00:00 PM</OMNIOriginalDateTime>
+71.0
+03:00:00 PM</OMNIStartDate>
+65.0
+03:00:00 PM</OMNIReminderTime>
+65.0
+03:00:00 PM</OMNIStartDateTime>
+65.0
+03:00:00 PM</OMNICalendarDateTime>
+65.0
+03:00:00 PM</OMNIOriginalDateTime>
+65.0
+04:00:00 PM</OMNIT=
+65.0
+04:00:00 PM</OMNIEndDateTime>
+65.0
+04:00:00 PM</OMNI$NoPurge>
+65.0
+AM</OMNICreatedDate> <OMNIForm>Appointment</OMNIForm>
+64.0
+need to
+62.0
+that we
+55.0
+to the
+51.0
+05:00:00 PM</OMNICalendarDateTime>
+50.0
+05:00:00 PM</OMNIOriginalDateTime>
+50.0
+05:00:00 PM</OMNIReminderTime>
+50.0
+05:00:00 PM</OMNIStartDateTime>
+50.0
+05:00:00 PM</OMNIStartDate>
+50.0
+<OMNIOrgDontDoubleBook>1</OMNIOrgDontDoubleBook> <OMNISubject>Settlements</OMNISubject>
+49.0
+M Forney/OU=3DHOU/O=3DECT</OMNI$UpdatedBy= >
+1044.0
+<OMNI$UpdatedBy>CN=3DJohn M Forney/OU=3DHOU/O=3DECT</OMNI$UpdatedBy=
+1044.0
+<OMNIChair>CN=3DJohn M Forney/OU=3DHOU/O=3DECT</OMNIChair>
+1039.0
+M Forney/OU=3DHOU/O=3DECT</OMNIChair> <OMNIOrgTable>C0</OMNIOrgTable>
+1033.0
+imeRange> <OMNIDuration>1</OMNIDuration> <OMNIOrgDontDoubleBook>1</OMNIOrgDontDoubleBook>
+1033.0
+Forney/OU=3DHOU/O=3DECT</OMNI$UpdatedBy= > </OMNICalendarEntry>
+1024.0
+<OMNIForm>Appointment</OMNIForm> <OMNIExcludeFromView>D</OMNIExcludeFromView> <OMNI$PublicAccess>1</OMNI$PublicAccess>
+1023.0
+<OMNIExcludeFromView>D</OMNIExcludeFromView> <OMNI$PublicAccess>1</OMNI$PublicAccess> <OMNIChair>CN=3DJohn
+1023.0
+<OMNI$PublicAccess>1</OMNI$PublicAccess> <OMNIChair>CN=3DJohn M
+1023.0
+> </OMNICalendarEntry> <OMNICalendarEntry>
+1023.0
+<OMNIPrincipal>CN=3DJohn M Forney/OU=3DHOU/O=3DECT</OMNIPrincipal>
+1017.0
+Forney/OU=3DHOU/O=3DECT</OMNIPrincipal> <OMNIAppointmentType>0</OMNIAppointmentType> <OMNI_ViewIcon>160</OMNI_ViewIcon>
+1017.0
+<OMNIOrgTable>C0</OMNIOrgTable> <OMNI$BusyName>CN=3DJohn M
+1017.0
+<OMNI$BusyName>CN=3DJohn M Forney/OU=3DHOU/O=3DECT</OMNI$BusyName>
+1017.0
+Forney/OU=3DHOU/O=3DECT</OMNI$BusyName> <OMNI$Busy>1</OMNI$Busy> <OMNI$BusyPriority>1</OMNI$BusyPriority>
+1017.0
+M Forney/OU=3DHOU/O=3DECT</OMNI$BusyName> <OMNI$Busy>1</OMNI$Busy>
+1017.0
+<OMNI$Busy>1</OMNI$Busy> <OMNI$BusyPriority>1</OMNI$BusyPriority> <OMNIPrincipal>CN=3DJohn
+1017.0
+M Forney/OU=3DHOU/O=3DECT</OMNIPrincipal> <OMNIAppointmentType>0</OMNIAppointmentType>
+1017.0
+<OMNI$BusyPriority>1</OMNI$BusyPriority> <OMNIPrincipal>CN=3DJohn M
+1017.0
+Forney/OU=3DHOU/O=3DECT</OMNIChair> <OMNIOrgTable>C0</OMNIOrgTable> <OMNI$BusyName>CN=3DJohn
+1017.0
+PM</OMNICreatedDate> <OMNIForm>Appointment</OMNIForm> <OMNIExcludeFromView>D</OMNIExcludeFromView>
+975.0
+PM</OMNIT= imeRange> <OMNIDuration>1</OMNIDuration>
+870.0
+AM</OMNIT= imeRange> <OMNIDuration>1</OMNIDuration>
+169.0
+11:00:00 AM</OMNIT= imeRange>
+138.0
+12:00:00 PM</OMNIT= imeRange>
+134.0
+01:00:00 PM</OMNIT= imeRange>
+129.0
+02:00:00 PM</OMNIT= imeRange>
+122.0
+03:00:00 PM</OMNIT= imeRange>
+88.0
+05:00:00 PM</OMNIT= imeRange>
+72.0
+04:00:00 PM</OMNIT= imeRange>
+65.0
+AM</OMNICreatedDate> <OMNIForm>Appointment</OMNIForm> <OMNIExcludeFromView>D</OMNIExcludeFromView>
+64.0
+<OMNISubject>Settlements</OMNISubject> <OMNI$UpdatedBy>CN=3DJohn M
+49.0
+<OMNIOrgDontDoubleBook>1</OMNIOrgDontDoubleBook> <OMNISubject>Settlements</OMNISubject> <OMNI$UpdatedBy>CN=3DJohn
+49.0
+<OMNIDuration>1</OMNIDuration> <OMNIOrgDontDoubleBook>1</OMNIOrgDontDoubleBook> <OMNISubject>Settlements</OMNISubject>
+49.0
+<OMNIAppointmentType>0</OMNIAppointmentType> <OMNI_ViewIcon>160</OMNI_ViewIcon> <OMNICalendarDateTime>09/08/1999
+48.0
+07:00:00 PM</OMNIT= imeRange>
+46.0
+06:00:00 PM</OMNIT= imeRange>
+45.0
+<OMNIAppointmentType>0</OMNIAppointmentType> <OMNI_ViewIcon>160</OMNI_ViewIcon> <OMNICalendarDateTime>08/10/1999
+44.0
+<OMNIAppointmentType>0</OMNIAppointmentType> <OMNI_ViewIcon>160</OMNI_ViewIcon> <OMNICalendarDateTime>08/16/1999
+44.0
+I will be
+41.0
+<OMNIAppointmentType>0</OMNIAppointmentType> <OMNI_ViewIcon>160</OMNI_ViewIcon> <OMNICalendarDateTime>09/16/1999
+40.0
+<OMNIDuration>1</OMNIDuration> <OMNIOrgDontDoubleBook>1</OMNIOrgDontDoubleBook> <OMNISubject>EPE
+40.0
+<OMNIDuration>1</OMNIDuration> <OMNIOrgDontDoubleBook>1</OMNIOrgDontDoubleBook> <OMNISubject>Book
+37.0
+<OMNIAppointmentType>0</OMNIAppointmentType> <OMNI_ViewIcon>160</OMNI_ViewIcon> <OMNICalendarDateTime>11/02/1999
+36.0
+meeting</OMNISubject> <OMNI$UpdatedBy>CN=3DJohn M
+36.0
+<OMNIAppointmentType>0</OMNIAppointmentType> <OMNI_ViewIcon>160</OMNI_ViewIcon> <OMNICalendarDateTime>08/30/1999
+32.0
+<OMNIAppointmentType>0</OMNIAppointmentType> <OMNI_ViewIcon>160</OMNI_ViewIcon> <OMNICalendarDateTime>09/13/1999
+32.0
+<OMNIAppointmentType>0</OMNIAppointmentType> <OMNI_ViewIcon>160</OMNI_ViewIcon> <OMNICalendarDateTime>08/18/1999
+28.0
+<OMNIAppointmentType>0</OMNIAppointmentType> <OMNI_ViewIcon>160</OMNI_ViewIcon> <OMNICalendarDateTime>07/22/1999
+28.0
+08:00:00 PM</OMNIT= imeRange>
+27.0
+</OMNISubject> <OMNI$UpdatedBy>CN=3DJohn M
+26.0
+Let me know
+26.0
+<OMNIAppointmentType>0</OMNIAppointmentType> <OMNI_ViewIcon>160</OMNI_ViewIcon> <OMNICalendarDateTime>10/29/1999
+24.0
+interview</OMNISubject> <OMNI$UpdatedBy>CN=3DJohn M
+24.0
+<OMNIDuration>1</OMNIDuration> <OMNIOrgDontDoubleBook>1</OMNIOrgDontDoubleBook> <OMNISubject>Call
+24.0
+<OMNIAppointmentType>0</OMNIAppointmentType> <OMNI_ViewIcon>160</OMNI_ViewIcon> <OMNICalendarDateTime>09/15/1999
+24.0
+<OMNIAppointmentType>0</OMNIAppointmentType> <OMNI_ViewIcon>160</OMNI_ViewIcon> <OMNICalendarDateTime>02/28/2000
+22.0
+Please see the
+22.0
+Clock</OMNIRemTune> <OMNIRemLaunch></OMNIRemLaunch> <OMNIOrgReminder>1</OMNIOrgReminder>
+22.0
+<OMNIRemTune>Alarm Clock</OMNIRemTune> <OMNIRemLaunch></OMNIRemLaunch>
+22.0
+<OMNISubject>Reviews</OMNISubject> <OMNI$UpdatedBy>CN=3DJohn M
+21.0
+<OMNIDuration>1</OMNIDuration> <OMNIOrgDontDoubleBook>1</OMNIOrgDontDoubleBook> <OMNISubject>Reviews</OMNISubject>
+21.0
+<OMNIOrgDontDoubleBook>1</OMNIOrgDontDoubleBook> <OMNISubject>Reviews</OMNISubject> <OMNI$UpdatedBy>CN=3DJohn
+21.0
+<OMNIAppointmentType>0</OMNIAppointmentType> <OMNI_ViewIcon>160</OMNI_ViewIcon> <OMNICalendarDateTime>09/10/1999
+20.0
+<OMNIAppointmentType>0</OMNIAppointmentType> <OMNI_ViewIcon>160</OMNI_ViewIcon> <OMNICalendarDateTime>09/14/1999
+20.0
+05:30:00 PM</OMNIT= imeRange>
+20.0
+<OMNIAppointmentType>0</OMNIAppointmentType> <OMNI_ViewIcon>160</OMNI_ViewIcon> <OMNICalendarDateTime>10/04/1999
+20.0
+<OMNIAppointmentType>0</OMNIAppointmentType> <OMNI_ViewIcon>160</OMNI_ViewIcon> <OMNICalendarDateTime>10/07/1999
+20.0
+<OMNIAppointmentType>0</OMNIAppointmentType> <OMNI_ViewIcon>160</OMNI_ViewIcon> <OMNICalendarDateTime>09/21/1999
+20.0
+<OMNIAppointmentType>0</OMNIAppointmentType> <OMNI_ViewIcon>160</OMNI_ViewIcon> <OMNICalendarDateTime>10/27/1999
+20.0
+<OMNIAppointmentType>0</OMNIAppointmentType> <OMNI_ViewIcon>160</OMNI_ViewIcon> <OMNICalendarDateTime>09/20/1999
+20.0
+<OMNIAppointmentType>0</OMNIAppointmentType> <OMNI_ViewIcon>160</OMNI_ViewIcon> <OMNICalendarDateTime>09/24/1999
+20.0
+09:00:00 PM</OMNIT= imeRange>
+18.0
+04:30:00 PM</OMNIT= imeRange>
+18.0
+<OMNI$PublicAccess>1</OMNI$PublicAccess> <OMNI$UpdatedBy>CN=3DJohn M
+17.0
+K</OMNISubject> <OMNI$UpdatedBy>CN=3DJohn M
+16.0
+<OMNIAppointmentType>0</OMNIAppointmentType> <OMNI_ViewIcon>160</OMNI_ViewIcon> <OMNICalendarDateTime>09/23/1999
+16.0
+<OMNIAppointmentType>0</OMNIAppointmentType> <OMNI_ViewIcon>160</OMNI_ViewIcon> <OMNICalendarDateTime>01/19/2000
+16.0
+<OMNIAppointmentType>0</OMNIAppointmentType> <OMNI_ViewIcon>160</OMNI_ViewIcon> <OMNICalendarDateTime>08/02/1999
+16.0
+I need to
+16.0
+<OMNIAppointmentType>0</OMNIAppointmentType> <OMNI_ViewIcon>160</OMNI_ViewIcon> <OMNICalendarDateTime>09/22/1999
+16.0
+<OMNIAppointmentType>0</OMNIAppointmentType> <OMNI_ViewIcon>160</OMNI_ViewIcon> <OMNICalendarDateTime>10/28/1999
+16.0
+<OMNI$BusyPriority>2</OMNI$BusyPriority> <OMNIAppointmentType>4</OMNIAppointmentType> <OMNI_ViewIcon>10</OMNI_ViewIcon>
+16.0
+<OMNIForm>Appointment</OMNIForm> <OMNIExcludeFromView>D</OMNIExcludeFromView> <OMNIChair>CN=3DJohn
+16.0
+project</OMNISubject> <OMNI$UpdatedBy>CN=3DJohn M
+16.0
+<OMNIAppointmentType>0</OMNIAppointmentType> <OMNI_ViewIcon>160</OMNI_ViewIcon> <OMNICalendarDateTime>08/05/1999
+16.0
+Forney/OU=3DHOU/O=3DECT</OMNIChair> <OMNIOrgTable>C0</OMNIOrgTable> <OMNI$BusyPriority>2</OMNI$BusyPriority>
+16.0
+xsfer</OMNISubject> <OMNI$UpdatedBy>CN=3DJohn M
+16.0
+<OMNIDuration>1</OMNIDuration> <OMNIOrgDontDoubleBook>1</OMNIOrgDontDoubleBook> <OMNISubject>Review
+16.0
+<OMNIOrgTable>C0</OMNIOrgTable> <OMNI$BusyPriority>2</OMNI$BusyPriority> <OMNIAppointmentType>4</OMNIAppointmentType>
+16.0
+<OMNIDuration>1</OMNIDuration> <OMNIOrgDontDoubleBook>1</OMNIOrgDontDoubleBook> <OMNISubject>Meet
+16.0
+<OMNIAppointmentType>0</OMNIAppointmentType> <OMNI_ViewIcon>160</OMNI_ViewIcon> <OMNICalendarDateTime>03/07/2000
+16.0
+<OMNIExcludeFromView>D</OMNIExcludeFromView> <OMNIChair>CN=3DJohn M
+16.0
+deal</OMNISubject> <OMNI$UpdatedBy>CN=3DJohn M
+16.0
+02:30:00 PM</OMNIT= imeRange>
+15.0
+would like to
+15.0
+we need to
+15.0
+<OMNIDuration>1</OMNIDuration> <OMNIOrgDontDoubleBook>1</OMNIOrgDontDoubleBook> <OMNISubject>Epe
+15.0
+<OMNIAppointmentType>0</OMNIAppointmentType> <OMNI_ViewIcon>160</OMNI_ViewIcon> <OMNICalendarDateTime>03/02/2000
+14.0
+for hour ending
+14.0
+M
+4137.0
+I
+703.0
+is
+366.0
+a
+362.0
+in
+351.0
+have
+273.0
+be
+247.0
+will
+231.0
+on
+220.0
+are
+189.0
+as
+159.0
+me
+140.0
+at
+138.0
+am
+112.0
+not
+102.0
+was
+102.0
+an
+95.0
+or
+95.0
+need
+92.0
+but
+90.0
+he
+84.0
+it
+84.0
+null
+79.0
+can
+74.0
+get
+74.0
+has
+74.0
+know
+74.0
+been
+73.0
+some
+67.0
+out
+63.0
+about
+62.0
+Please
+59.0
+do
+56.0
+had
+53.0
+by
+52.0
+up
+52.0
+us
+49.0
+sell
+48.0
+ending
+47.0
+hour
+46.0
+also
+45.0
+call
+45.0
+any
+44.0
+deal
+44.0
+under
+44.0
+Thanks
+43.0
+see
+43.0
+good
+42.0
+make
+42.0
+time
+42.0
+415.0
+247.0

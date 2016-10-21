@@ -1,0 +1,502 @@
+on the
+11.0
+thanks, ryan
+10.0
+from the
+10.0
+to be
+6.0
+buy from
+6.0
+going to
+5.0
+of the
+5.0
+the ISO
+5.0
+If you
+5.0
+for HE
+5.0
+is going
+5.0
+need to
+5.0
+in the
+5.0
+and I
+4.0
+you have
+4.0
+there is
+4.0
+in which
+4.0
+to the
+4.0
+will be
+4.0
+want to
+4.0
+it is
+4.0
+for the
+4.0
+have any
+4.0
+with the
+4.0
+ORA-06512: at
+4.0
+that you
+4.0
+found in
+3.0
+to buy
+3.0
+execution of
+3.0
+is a
+3.0
+we charge
+3.0
+ryan I
+3.0
+to do
+3.0
+the option
+3.0
+and they
+3.0
+not in
+3.0
+the imbalance
+3.0
+make the
+3.0
+out of
+3.0
+El Paso
+3.0
+be able
+3.0
+I have
+3.0
+able to
+3.0
+that we
+3.0
+I'm not
+3.0
+I will
+3.0
+The deal
+3.0
+a new
+3.0
+purchase from
+3.0
+We sold
+3.0
+ORA-04088: error
+2.0
+in enpower
+2.0
+in Caps
+2.0
+ME KNOW.
+2.0
+25MW AT
+2.0
+el paso
+2.0
+error during
+2.0
+is not
+2.0
+"PWR.PKG_ERRORLOG", line
+2.0
+trbriu_deal_peers -
+2.0
+in SP
+2.0
+Exception --
+2.0
+then we
+2.0
+built in
+2.0
+rather than
+2.0
+"PWR.TRBRIU_DEAL_PEERS", line
+2.0
+a zero
+2.0
+101mw's for
+2.0
+had a
+2.0
+you buy
+2.0
+99 ORA-04088:
+2.0
+had to
+2.0
+The price
+2.0
+I had
+2.0
+on PAC(T)
+2.0
+Paso Model.
+2.0
+said that
+2.0
+then the
+2.0
+around the
+2.0
+any questions
+2.0
+have been
+2.0
+trader_id: Exception
+2.0
+User-Defined Exception
+2.0
+well. ryan
+2.0
+should have
+2.0
+Exception ORA-06512:
+2.0
+CAPS for
+2.0
+at "PWR.PKG_ERRORLOG",
+2.0
+so I
+2.0
+to just
+2.0
+if we
+2.0
+line 99
+2.0
+in CAPS
+2.0
+at a
+2.0
+a good
+2.0
+ISO had
+2.0
+- trader_id:
+2.0
+the SAR
+2.0
+the clock
+2.0
+price for
+2.0
+buy from the
+5.0
+If you have
+3.0
+you have any
+3.0
+be able to
+3.0
+from the imbalance
+3.0
+User-Defined Exception ORA-06512:
+2.0
+- trader_id: Exception
+2.0
+99 ORA-04088: error
+2.0
+is going well.
+2.0
+which the option
+2.0
+is going to
+2.0
+that you are
+2.0
+for the hour
+2.0
+we charge them
+2.0
+Exception ORA-06512: at
+2.0
+ORA-04088: error during
+2.0
+during execution of
+2.0
+I had to
+2.0
+"PWR.TRBRIU_DEAL_PEERS", line 99
+2.0
+at "PWR.TRBRIU_DEAL_PEERS", line
+2.0
+I will be
+2.0
+trader_id: Exception --
+2.0
+in which the
+2.0
+thanks, ryan We
+2.0
+to a zero
+2.0
+a price of
+2.0
+you buy from
+2.0
+hour in which
+2.0
+line 47 ORA-06512:
+2.0
+The deal is
+2.0
+going well. ryan
+2.0
+ORA-20101: Error found
+2.0
+I'm not really
+2.0
+of trigger 'PWR.TRBRIU_DEAL_PEERS'
+2.0
+in trbriu_deal_peers -
+2.0
+at a price
+2.0
+TRADER_ID User-Defined Exception
+2.0
+at "PWR.PKG_ERRORLOG", line
+2.0
+found in trbriu_deal_peers
+2.0
+around the clock
+2.0
+-- TRADER_ID User-Defined
+2.0
+Exception -- TRADER_ID
+2.0
+the hour in
+2.0
+LET ME KNOW.
+2.0
+error during execution
+2.0
+line 99 ORA-04088:
+2.0
+ORA-06512: at "PWR.TRBRIU_DEAL_PEERS",
+2.0
+Error found in
+2.0
+trbriu_deal_peers - trader_id:
+2.0
+El Paso Model.
+2.0
+"PWR.PKG_ERRORLOG", line 47
+2.0
+going to be
+2.0
+execution of trigger
+2.0
+and it is
+2.0
+ORA-06512: at "PWR.PKG_ERRORLOG",
+2.0
+error. ORA-20101: Error
+2.0
+need to be
+2.0
+have any questions
+2.0
+had to change
+2.0
+was cut to
+2.0
+General SQL error.
+2.0
+is not in
+2.0
+SQL error. ORA-20101:
+2.0
+then we charge
+2.0
+47 ORA-06512: at
+2.0
+prior to the
+2.0
+cut to a
+2.0
+to buy from
+2.0
+IN A ADDITION
+1.0
+UP WHEN THERE
+1.0
+the enclosed El
+1.0
+is going well
+1.0
+trade where possible.
+1.0
+can quote a
+1.0
+a -2 for
+1.0
+ago january since
+1.0
+not have any
+1.0
+bus instead of
+1.0
+do not have
+1.0
+trigger 'PWR.TRBRIU_DEAL_PEERS' We
+1.0
+cases I can
+1.0
+always we don't
+1.0
+do. All new
+1.0
+Susan, the Real
+1.0
+systems and built
+1.0
+site. Hope everything
+1.0
+go with the
+1.0
+of room on
+1.0
+So when are
+1.0
+long there is
+1.0
+AND IT DOES
+1.0
+Strike Price: determined
+1.0
+greatly help us
+1.0
+buying 25mw from
+1.0
+northwest utilities down
+1.0
+population. Thanks, Serena
+1.0
+THIS DEAL WAS
+1.0
+it is run.
+1.0
+they should have
+1.0
+we were to
+1.0
+in
+35.0
+is
+34.0
+I
+33.0
+a
+33.0
+on
+26.0
+be
+20.0
+at
+18.0
+or
+18.0
+have
+14.0
+HE
+12.0
+are
+12.0
+as
+12.0
+it
+12.0
+will
+10.0
+out
+9.0
+buy
+8.0
+fee
+8.0
+going
+8.0
+not
+8.0
+schedule
+8.0
+then
+8.0
+was
+8.0
+but
+7.0
+had
+7.0
+make
+7.0
+new
+7.0
+up
+7.0
+IN
+6.0
+Please
+6.0
+any
+6.0
+option
+6.0
+price
+6.0
+so
+6.0
+some
+6.0
+IT
+5.0
+can
+5.0
+do
+5.0
+just
+5.0
+me
+5.0
+need
+5.0
+one
+5.0
+purchase
+5.0
+time
+5.0
+Exception
+4.0
+IS
+4.0
+It
+4.0
+all
+4.0
+around
+4.0
+bought
+4.0
+built
+4.0
+22.0
+18.0

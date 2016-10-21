@@ -1,0 +1,502 @@
+<OMNI$BusyName>CN=3DDutch Quigley/OU=3DHOU/O=3DECT</OMNI$BusyName>
+175.0
+</OMNICalendarEntry> <OMNICalendarEntry>
+174.0
+Quigley/OU=3DHOU/O=3DECT</OMNI$UpdatedBy= >
+129.0
+<OMNI$UpdatedBy>CN=3DDutch Quigley/OU=3DHOU/O=3DECT</OMNI$UpdatedBy=
+129.0
+<OMNIDuration>1</OMNIDuration> <OMNIExcludeFromView>D</OMNIExcludeFromView>
+106.0
+Quigley/OU=3DHOU/O=3DECT</OMNI$BusyName> <OMNI$Busy>1</OMNI$Busy>
+92.0
+<OMNIPrincipal>CN=3DDutch Quigley/OU=3DHOU/O=3DECT</OMNIPrincipal>
+83.0
+<OMNICHAIR>CN=3DDutch Quigley/OU=3DHOU/O=3DECT</OMNICHAIR>
+83.0
+<OMNI$BusyPriority>1</OMNI$BusyPriority> <OMNI$BusyName>CN=3DDutch
+82.0
+<OMNIBookFreeTime></OMNIBookFreeTime> <OMNIOrgConfidential></OMNIOrgConfidential>
+81.0
+<OMNIExcludeFromView>D</OMNIExcludeFromView> <OMNIAppointmentType>0</OMNIAppointmentType>
+78.0
+<OMNI$Busy>1</OMNI$Busy> <OMNIDuration>1</OMNIDuration>
+78.0
+<OMNIORGTABLE>C0</OMNIORGTABLE> <OMNIForm>Appointment</OMNIForm>
+72.0
+<OMNISendTo></OMNISendTo> <OMNICopyTo></OMNICopyTo>
+69.0
+<OMNIORGDONTDOUBLEBOOK></OMNIORGDONTDOUBLEBOOK> <OMNIORGTABLE>C0</OMNIORGTABLE>
+69.0
+Quigley/OU=3DHOU/O=3DECT</OMNIPrincipal> <OMNIExcludeFromView>D</OMNIExcludeFromView>
+69.0
+<OMNIForm>Appointment</OMNIForm> <OMNI$ExpandGroups>3</OMNI$ExpandGroups>
+69.0
+<OMNIExcludeFromView>D</OMNIExcludeFromView> <OMNICHAIR>CN=3DDutch
+69.0
+<OMNICopyTo></OMNICopyTo> <OMNIBroadcast></OMNIBroadcast>
+69.0
+<OMNIOrgConfidential></OMNIOrgConfidential> <OMNISendTo></OMNISendTo>
+68.0
+<OMNIAppointmentType>0</OMNIAppointmentType> <OMNI_ViewIcon>160</OMNI_ViewIcon>
+68.0
+imeRange> <OMNIBookFreeTime></OMNIBookFreeTime>
+68.0
+> <OMNIBody></OMNIBody>
+67.0
+Quigley/OU=3DHOU/O=3DECT</OMNIDocAuthors= >
+66.0
+<OMNIORGTABLE>C0</OMNIORGTABLE> <OMNISEQUENCENUM>1</OMNISEQUENCENUM>
+66.0
+Quigley/OU=3DHOU/O=3DECT</OMNIFrom> <OMNIAppointmentType>3</OMNIAppointmentType>
+66.0
+<OMNIBroadcast></OMNIBroadcast> <OMNI_ViewIcon>158</OMNI_ViewIcon>
+66.0
+<OMNIAppointmentType>3</OMNIAppointmentType> <OMNIDuration>1</OMNIDuration>
+66.0
+<OMNIBody></OMNIBody> <OMNIFrom>CN=3DDutch
+66.0
+<OMNI_ViewIcon>158</OMNI_ViewIcon> <OMNIForm>Appointment</OMNIForm>
+66.0
+<OMNIDocAuthors>CN=3DDutch Quigley/OU=3DHOU/O=3DECT</OMNIDocAuthors=
+66.0
+<OMNIFrom>CN=3DDutch Quigley/OU=3DHOU/O=3DECT</OMNIFrom>
+66.0
+$Revisions> </OMNICalendarEntry>
+63.0
+<OMNI$ExpandGroups>3</OMNI$ExpandGroups> <OMNI$UpdatedBy>CN=3DDutch
+60.0
+<OMNISEQUENCENUM>1</OMNISEQUENCENUM> <OMNI$PublicAccess>1</OMNI$PublicAccess>
+59.0
+<OMNI$PublicAccess>1</OMNI$PublicAccess> <OMNI$UpdatedBy>CN=3DDutch
+57.0
+on the
+51.0
+AM</OMNICreatedDate> <OMNIORGTABLE>C0</OMNIORGTABLE>
+47.0
+PM</OMNIT= imeRange>
+46.0
+<OMNI$UpdatedBy>CN=3DIrena D
+44.0
+10:00:00 AM</OMNICalendarDateTime>
+43.0
+for the
+43.0
+10:00:00 AM</OMNIStartDateTime>
+43.0
+10:00:00 AM</OMNIStartDate>
+43.0
+Hogan/OU=3DHOU/O=3DECT</OMNI$UpdatedBy= >
+41.0
+D Hogan/OU=3DHOU/O=3DECT</OMNI$UpdatedBy=
+41.0
+<OMNI$PublicAccess>1</OMNI$PublicAccess> <OMNI$UpdatedBy>CN=3DIrena
+41.0
+<OMNI$AlarmOffset>-30</OMNI$AlarmOffset> <OMNIDocAuthors>CN=3DDutch
+40.0
+of the
+40.0
+AM</OMNICalendarDateTime> <OMNIORGDONTDOUBLEBOOK></OMNIORGDONTDOUBLEBOOK>
+40.0
+PM</OMNI$Revisions> </OMNICalendarEntry>
+39.0
+<OMNI$AlarmDescription></OMNI$AlarmDescription> <OMNIRemLaunch></OMNIRemLaunch>
+38.0
+AM</OMNIT= imeRange>
+37.0
+11:00:00 AM</OMNI$NoPurge>
+37.0
+<OMNI$Alarm>1</OMNI$Alarm> <OMNI$AlarmOffset>-30</OMNI$AlarmOffset>
+37.0
+11:00:00 AM</OMNIEndDateTime>
+37.0
+<OMNIRemTune>chimes.wav</OMNIRemTune> <OMNI$AlarmDescription></OMNI$AlarmDescription>
+36.0
+AM</OMNI$Revisions> </OMNICalendarEntry>
+36.0
+AM</OMNIEndDateTime> <OMNIPrincipal>CN=3DDutch
+36.0
+PM</OMNICreatedDate> <OMNIORGTABLE>C0</OMNIORGTABLE>
+35.0
+in the
+35.0
+AM</OMNI$NoPurge> <OMNI$BusyPriority>1</OMNI$BusyPriority>
+35.0
+PM</OMNIEndDateTime> <OMNIPrincipal>CN=3DDutch
+33.0
+AM</OMNIStartDateTime> <OMNI$Alarm>1</OMNI$Alarm>
+33.0
+PM</OMNI$NoPurge> <OMNI$BusyPriority>1</OMNI$BusyPriority>
+33.0
+> </OMNICalendarEntry>
+32.0
+to the
+32.0
+PM</OMNI= $Revisions>
+32.0
+<OMNIOrgReminder>1</OMNIOrgReminder> <OMNI$PublicAccess>1</OMNI$PublicAccess>
+31.0
+AM</OMNI= $Revisions>
+31.0
+me know
+31.0
+I am
+30.0
+10:00:00 AM</OMNIOriginalDateTime>
+30.0
+PM</OMNICalendarDateTime> <OMNIORGDONTDOUBLEBOOK></OMNIORGDONTDOUBLEBOOK>
+29.0
+if you
+27.0
+i am
+27.0
+you have
+26.0
+PM</OMNIStartDateTime> <OMNI$Alarm>1</OMNI$Alarm>
+25.0
+I have
+25.0
+that you
+24.0
+to be
+24.0
+is the
+24.0
+AM</OMNI$NoPurge> <OMNIORGDONTDOUBLEBOOK>1</OMNIORGDONTDOUBLEBOOK>
+23.0
+<OMNI$REF></OMNI$REF> <OMNI$RefOptions>1</OMNI$RefOptions>
+22.0
+that is
+22.0
+PM</OMNI$NoPurge> <OMNIORGDONTDOUBLEBOOK>1</OMNIORGDONTDOUBLEBOOK>
+22.0
+do not
+21.0
+09:00:00 AM</OMNICalendarDateTime>
+20.0
+need to
+20.0
+09:00:00 AM</OMNIStartDate>
+20.0
+<OMNI$RefOptions>1</OMNI$RefOptions> <OMNIForm>Appointment</OMNIForm>
+20.0
+09:00:00 AM</OMNIStartDateTime>
+20.0
+i will
+20.0
+know if
+19.0
+AM;10/02/2000 08:25:19
+18.0
+with the
+18.0
+08:25:19 AM;10/02/2000
+18.0
+<OMNIBroadcast>1</OMNIBroadcast> <OMNI$PublicAccess>1</OMNI$PublicAccess>
+18.0
+<OMNISubject>meet with
+17.0
+I will
+17.0
+<OMNI$UpdatedBy>CN=3DDutch Quigley/OU=3DHOU/O=3DECT</OMNI$UpdatedBy= >
+129.0
+<OMNI$BusyName>CN=3DDutch Quigley/OU=3DHOU/O=3DECT</OMNI$BusyName> <OMNI$Busy>1</OMNI$Busy>
+92.0
+<OMNI$BusyPriority>1</OMNI$BusyPriority> <OMNI$BusyName>CN=3DDutch Quigley/OU=3DHOU/O=3DECT</OMNI$BusyName>
+82.0
+<OMNIDuration>1</OMNIDuration> <OMNIExcludeFromView>D</OMNIExcludeFromView> <OMNIAppointmentType>0</OMNIAppointmentType>
+78.0
+<OMNI$Busy>1</OMNI$Busy> <OMNIDuration>1</OMNIDuration> <OMNIExcludeFromView>D</OMNIExcludeFromView>
+78.0
+Quigley/OU=3DHOU/O=3DECT</OMNI$BusyName> <OMNI$Busy>1</OMNI$Busy> <OMNIDuration>1</OMNIDuration>
+78.0
+<OMNIPrincipal>CN=3DDutch Quigley/OU=3DHOU/O=3DECT</OMNIPrincipal> <OMNIExcludeFromView>D</OMNIExcludeFromView>
+69.0
+<OMNIExcludeFromView>D</OMNIExcludeFromView> <OMNICHAIR>CN=3DDutch Quigley/OU=3DHOU/O=3DECT</OMNICHAIR>
+69.0
+<OMNISendTo></OMNISendTo> <OMNICopyTo></OMNICopyTo> <OMNIBroadcast></OMNIBroadcast>
+69.0
+Quigley/OU=3DHOU/O=3DECT</OMNIPrincipal> <OMNIExcludeFromView>D</OMNIExcludeFromView> <OMNICHAIR>CN=3DDutch
+69.0
+<OMNIExcludeFromView>D</OMNIExcludeFromView> <OMNIAppointmentType>0</OMNIAppointmentType> <OMNI_ViewIcon>160</OMNI_ViewIcon>
+68.0
+<OMNIOrgConfidential></OMNIOrgConfidential> <OMNISendTo></OMNISendTo> <OMNICopyTo></OMNICopyTo>
+68.0
+<OMNIBookFreeTime></OMNIBookFreeTime> <OMNIOrgConfidential></OMNIOrgConfidential> <OMNISendTo></OMNISendTo>
+67.0
+imeRange> <OMNIBookFreeTime></OMNIBookFreeTime> <OMNIOrgConfidential></OMNIOrgConfidential>
+67.0
+<OMNIFrom>CN=3DDutch Quigley/OU=3DHOU/O=3DECT</OMNIFrom> <OMNIAppointmentType>3</OMNIAppointmentType>
+66.0
+<OMNIORGDONTDOUBLEBOOK></OMNIORGDONTDOUBLEBOOK> <OMNIORGTABLE>C0</OMNIORGTABLE> <OMNISEQUENCENUM>1</OMNISEQUENCENUM>
+66.0
+<OMNIDocAuthors>CN=3DDutch Quigley/OU=3DHOU/O=3DECT</OMNIDocAuthors= >
+66.0
+<OMNICopyTo></OMNICopyTo> <OMNIBroadcast></OMNIBroadcast> <OMNI_ViewIcon>158</OMNI_ViewIcon>
+66.0
+Quigley/OU=3DHOU/O=3DECT</OMNIFrom> <OMNIAppointmentType>3</OMNIAppointmentType> <OMNIDuration>1</OMNIDuration>
+66.0
+<OMNI_ViewIcon>158</OMNI_ViewIcon> <OMNIForm>Appointment</OMNIForm> <OMNI$ExpandGroups>3</OMNI$ExpandGroups>
+66.0
+<OMNIBroadcast></OMNIBroadcast> <OMNI_ViewIcon>158</OMNI_ViewIcon> <OMNIForm>Appointment</OMNIForm>
+66.0
+<OMNIBody></OMNIBody> <OMNIFrom>CN=3DDutch Quigley/OU=3DHOU/O=3DECT</OMNIFrom>
+66.0
+Quigley/OU=3DHOU/O=3DECT</OMNIDocAuthors= > <OMNIBody></OMNIBody>
+65.0
+> <OMNIBody></OMNIBody> <OMNIFrom>CN=3DDutch
+65.0
+$Revisions> </OMNICalendarEntry> <OMNICalendarEntry>
+63.0
+<OMNI$ExpandGroups>3</OMNI$ExpandGroups> <OMNI$UpdatedBy>CN=3DDutch Quigley/OU=3DHOU/O=3DECT</OMNI$UpdatedBy=
+60.0
+<OMNIForm>Appointment</OMNIForm> <OMNI$ExpandGroups>3</OMNI$ExpandGroups> <OMNI$UpdatedBy>CN=3DDutch
+60.0
+<OMNIORGTABLE>C0</OMNIORGTABLE> <OMNISEQUENCENUM>1</OMNISEQUENCENUM> <OMNI$PublicAccess>1</OMNI$PublicAccess>
+59.0
+<OMNI$PublicAccess>1</OMNI$PublicAccess> <OMNI$UpdatedBy>CN=3DDutch Quigley/OU=3DHOU/O=3DECT</OMNI$UpdatedBy=
+55.0
+<OMNI$UpdatedBy>CN=3DIrena D Hogan/OU=3DHOU/O=3DECT</OMNI$UpdatedBy=
+41.0
+D Hogan/OU=3DHOU/O=3DECT</OMNI$UpdatedBy= >
+41.0
+<OMNI$PublicAccess>1</OMNI$PublicAccess> <OMNI$UpdatedBy>CN=3DIrena D
+41.0
+<OMNI$AlarmOffset>-30</OMNI$AlarmOffset> <OMNIDocAuthors>CN=3DDutch Quigley/OU=3DHOU/O=3DECT</OMNIDocAuthors=
+40.0
+AM</OMNICalendarDateTime> <OMNIORGDONTDOUBLEBOOK></OMNIORGDONTDOUBLEBOOK> <OMNIORGTABLE>C0</OMNIORGTABLE>
+40.0
+PM</OMNI$Revisions> </OMNICalendarEntry> <OMNICalendarEntry>
+38.0
+AM</OMNICreatedDate> <OMNIORGTABLE>C0</OMNIORGTABLE> <OMNIForm>Appointment</OMNIForm>
+37.0
+AM</OMNI$Revisions> </OMNICalendarEntry> <OMNICalendarEntry>
+36.0
+AM</OMNIEndDateTime> <OMNIPrincipal>CN=3DDutch Quigley/OU=3DHOU/O=3DECT</OMNIPrincipal>
+36.0
+<OMNIRemTune>chimes.wav</OMNIRemTune> <OMNI$AlarmDescription></OMNI$AlarmDescription> <OMNIRemLaunch></OMNIRemLaunch>
+36.0
+<OMNI$Alarm>1</OMNI$Alarm> <OMNI$AlarmOffset>-30</OMNI$AlarmOffset> <OMNIDocAuthors>CN=3DDutch
+36.0
+AM</OMNI$NoPurge> <OMNI$BusyPriority>1</OMNI$BusyPriority> <OMNI$BusyName>CN=3DDutch
+35.0
+PM</OMNICreatedDate> <OMNIORGTABLE>C0</OMNIORGTABLE> <OMNIForm>Appointment</OMNIForm>
+35.0
+AM</OMNIT= imeRange> <OMNIBookFreeTime></OMNIBookFreeTime>
+35.0
+PM</OMNI$NoPurge> <OMNI$BusyPriority>1</OMNI$BusyPriority> <OMNI$BusyName>CN=3DDutch
+33.0
+PM</OMNIEndDateTime> <OMNIPrincipal>CN=3DDutch Quigley/OU=3DHOU/O=3DECT</OMNIPrincipal>
+33.0
+PM</OMNIT= imeRange> <OMNIBookFreeTime></OMNIBookFreeTime>
+33.0
+PM</OMNI= $Revisions> </OMNICalendarEntry>
+32.0
+> </OMNICalendarEntry> <OMNICalendarEntry>
+32.0
+AM</OMNI= $Revisions> </OMNICalendarEntry>
+31.0
+<OMNIOrgReminder>1</OMNIOrgReminder> <OMNI$PublicAccess>1</OMNI$PublicAccess> <OMNI$UpdatedBy>CN=3DDutch
+30.0
+PM</OMNICalendarDateTime> <OMNIORGDONTDOUBLEBOOK></OMNIORGDONTDOUBLEBOOK> <OMNIORGTABLE>C0</OMNIORGTABLE>
+29.0
+Quigley/OU=3DHOU/O=3DECT</OMNI$UpdatedBy= > </OMNICalendarEntry>
+26.0
+AM</OMNIStartDateTime> <OMNI$Alarm>1</OMNI$Alarm> <OMNI$AlarmOffset>-30</OMNI$AlarmOffset>
+20.0
+<OMNI$REF></OMNI$REF> <OMNI$RefOptions>1</OMNI$RefOptions> <OMNIForm>Appointment</OMNIForm>
+20.0
+<OMNIBroadcast>1</OMNIBroadcast> <OMNI$PublicAccess>1</OMNI$PublicAccess> <OMNI$UpdatedBy>CN=3DIrena
+18.0
+08:25:19 AM;10/02/2000 08:25:19
+17.0
+PM</OMNIStartDateTime> <OMNI$Alarm>1</OMNI$Alarm> <OMNI$AlarmOffset>-30</OMNI$AlarmOffset>
+17.0
+<OMNIORGTABLE>C0</OMNIORGTABLE> <OMNIForm>Appointment</OMNIForm> <OMNIORGDONTDOUBLEBOOK>1</OMNIORGDONTDOUBLEBOOK>
+16.0
+me know if
+16.0
+know if you
+16.0
+Let me know
+15.0
+11:00:00 AM</OMNI$NoPurge> <OMNI$BusyPriority>1</OMNI$BusyPriority>
+15.0
+let me know
+15.0
+11:00:00 AM</OMNIEndDateTime> <OMNIPrincipal>CN=3DDutch
+15.0
+11:00:00 AM</OMNIT= imeRange>
+15.0
+<OMNIBookFreeTime></OMNIBookFreeTime> <OMNIOrgConfidential></OMNIOrgConfidential> <OMNI$PublicAccess>1</OMNI$PublicAccess>
+14.0
+<OMNIAppointmentType>0</OMNIAppointmentType> <OMNICHAIR>CN=3DDutch Quigley/OU=3DHOU/O=3DECT</OMNICHAIR>
+14.0
+Quigley/OU=3DHOU/O=3DECT</OMNICHAIR> <OMNIDuration>1</OMNIDuration> <OMNIExcludeFromView>D</OMNIExcludeFromView>
+14.0
+<OMNI$Busy>1</OMNI$Busy> <OMNIBookFreeTime></OMNIBookFreeTime> <OMNIORGDONTDOUBLEBOOK>1</OMNIORGDONTDOUBLEBOOK>
+14.0
+<OMNI$BusyName>CN=3DDutch Quigley/OU=3DHOU/O=3DECT</OMNI$BusyName> <OMNI_ViewIcon>160</OMNI_ViewIcon>
+14.0
+<OMNIForm>Appointment</OMNIForm> <OMNIPrincipal>CN=3DDutch Quigley/OU=3DHOU/O=3DECT</OMNIPrincipal>
+14.0
+<OMNICHAIR>CN=3DDutch Quigley/OU=3DHOU/O=3DECT</OMNICHAIR> <OMNIDuration>1</OMNIDuration>
+14.0
+<OMNIBody></OMNIBody> <OMNIBookFreeTime></OMNIBookFreeTime> <OMNIOrgConfidential></OMNIOrgConfidential>
+14.0
+<OMNIExcludeFromView>D</OMNIExcludeFromView> <OMNIForm>Appointment</OMNIForm> <OMNIPrincipal>CN=3DDutch
+14.0
+Quigley/OU=3DHOU/O=3DECT</OMNI$BusyName> <OMNI$Busy>1</OMNI$Busy> <OMNIBookFreeTime></OMNIBookFreeTime>
+14.0
+<OMNIDuration>1</OMNIDuration> <OMNIExcludeFromView>D</OMNIExcludeFromView> <OMNIForm>Appointment</OMNIForm>
+14.0
+08:25:20 AM;10/02/2000 08:25:20
+14.0
+imeRange> <OMNIORGTABLE>C0</OMNIORGTABLE> <OMNILogo>StdNotesLtr35</OMNILogo>
+13.0
+<OMNILogo>StdNotesLtr35</OMNILogo> <OMNI$UpdatedBy>CN=3DDutch Quigley/OU=3DHOU/O=3DECT</OMNI$UpdatedBy=
+13.0
+<OMNI_ViewIcon>160</OMNI_ViewIcon> <OMNIAppointmentType>0</OMNIAppointmentType> <OMNICHAIR>CN=3DDutch
+13.0
+10:00:00 AM</OMNICalendarDateTime> <OMNIORGDONTDOUBLEBOOK></OMNIORGDONTDOUBLEBOOK>
+13.0
+<OMNISubject>Financial Books Meeting,
+13.0
+Quigley/OU=3DHOU/O=3DECT</OMNI$BusyName> <OMNI_ViewIcon>160</OMNI_ViewIcon> <OMNIAppointmentType>0</OMNIAppointmentType>
+13.0
+(Irena x36143)</OMNISu= bject>
+13.0
+Hogan/OU=3DHOU/O=3DECT</OMNI$UpdatedBy= > <OMNI$Revisions>10/02/2000
+13.0
+<OMNI$NoPurge>10/06/2000 11:00:00 AM</OMNI$NoPurge>
+13.0
+<OMNIORGTABLE>C0</OMNIORGTABLE> <OMNILogo>StdNotesLtr35</OMNILogo> <OMNI$UpdatedBy>CN=3DDutch
+13.0
+PM</OMNIT= imeRange> <OMNIORGTABLE>C0</OMNIORGTABLE>
+13.0
+11:00:00 AM</OMNI$NoPurge> <OMNI_ViewIcon>160</OMNI_ViewIcon>
+12.0
+<OMNIORGDONTDOUBLEBOOK>1</OMNIORGDONTDOUBLEBOOK> <OMNI$BusyName>CN=3DDutch Quigley/OU=3DHOU/O=3DECT</OMNI$BusyName>
+12.0
+10:00:00 AM</OMNIOriginalDateTime> <OMNI$REF></OMNI$REF>
+12.0
+<OMNI$PublicAccess>1</OMNI$PublicAccess> <OMNI$BusyPriority>1</OMNI$BusyPriority> <OMNI$BusyName>CN=3DDutch
+12.0
+AM</OMNIOriginalDateTime> <OMNI$REF></OMNI$REF> <OMNI$RefOptions>1</OMNI$RefOptions>
+12.0
+<OMNIOrgConfidential></OMNIOrgConfidential> <OMNI$PublicAccess>1</OMNI$PublicAccess> <OMNI$BusyPriority>1</OMNI$BusyPriority>
+12.0
+EB3270 (Irena x36143)</OMNISu=
+11.0
+AM</OMNIOriginalDateTime> <OMNIOrgReminder>1</OMNIOrgReminder> <OMNI$PublicAccess>1</OMNI$PublicAccess>
+11.0
+<OMNICreatedDate>10/2/2000 8:25:18 AM</OMNICreatedDate>
+11.0
+<OMNIOriginalDateTime>10/20/2000 10:00:00 AM</OMNIOriginalDateTime>
+11.0
+10:00:00 AM</OMNIStartDateTime> <OMNI$Alarm>1</OMNI$Alarm>
+11.0
+Books Meeting, EB3270
+11.0
+is
+233.0
+I
+209.0
+a
+185.0
+i
+170.0
+on
+154.0
+in
+145.0
+not
+123.0
+have
+119.0
+are
+103.0
+can
+93.0
+be
+92.0
+me
+90.0
+at
+87.0
+will
+87.0
+it
+86.0
+Dutch
+73.0
+know
+71.0
+am
+65.0
+as
+64.0
+do
+64.0
+was
+61.0
+about
+56.0
+2
+53.0
+D
+52.0
+all
+52.0
+get
+51.0
+but
+50.0
+just
+47.0
+so
+47.0
+out
+45.0
+or
+43.0
+need
+38.0
+time
+38.0
+up
+38.0
+there
+35.0
+good
+33.0
+day
+32.0
+been
+29.0
+great
+29.0
+bid
+28.0
+one
+28.0
+talk
+28.0
+let
+27.0
+no
+27.0
+3
+26.0
+go
+26.0
+did
+25.0
+want
+25.0
+going
+24.0
+1
+23.0
+280.0
+126.0

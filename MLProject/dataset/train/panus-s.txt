@@ -1,0 +1,502 @@
+Enron Wholesale
+13.0
+Wholesale Services
+13.0
+713.345.3249 fax:
+13.0
+ph: 713.345.3249
+13.0
+fax: 713.646.3490
+13.0
+Stephanie Panus
+13.0
+Smith Street,
+12.0
+1400 Smith
+12.0
+713.646.3490 email:
+12.0
+Senior Legal
+12.0
+Street, EB3803C
+12.0
+Texas 77002
+12.0
+email: stephanie.panus@enron.com
+12.0
+Panus Senior
+12.0
+Specialist Enron
+12.0
+77002 ph:
+12.0
+EB3803C Houston,
+12.0
+Houston, Texas
+12.0
+Services 1400
+12.0
+Legal Specialist
+12.0
+you have
+8.0
+have any
+8.0
+ISDA Master
+8.0
+the below
+8.0
+is a
+7.0
+me at
+7.0
+at the
+6.0
+of the
+6.0
+Master Agreement
+6.0
+for your
+6.0
+Agreement between
+6.0
+contact me
+5.0
+Attached for
+5.0
+If you
+5.0
+to the
+4.0
+the ISDA
+4.0
+Enron North
+4.0
+North America
+4.0
+please contact
+4.0
+America Corp.
+4.0
+below number
+4.0
+number or
+4.0
+Paragraph 13
+4.0
+comments, please
+3.0
+Thanks, Stephanie
+3.0
+executed by
+3.0
+and Enron
+3.0
+we have
+3.0
+Oil &
+3.0
+I am
+3.0
+any questions
+3.0
+review is
+3.0
+questions or
+3.0
+the attached
+3.0
+is the
+3.0
+the revised
+3.0
+Attached is
+3.0
+See attached
+3.0
+stephanie.panus@enron.com Mr.
+3.0
+Energy Marketing,
+3.0
+to you
+3.0
+Corp. and
+3.0
+Credit Support
+3.0
+e prime
+3.0
+your review
+3.0
+Inc. -
+2.0
+for the
+2.0
+& Gas
+2.0
+various Enron
+2.0
+the proposed
+2.0
+and the
+2.0
+guaranty covering
+2.0
+Also attached
+2.0
+Belco Oil
+2.0
+to be
+2.0
+If the
+2.0
+your approval,
+2.0
+New Jersey
+2.0
+with various
+2.0
+prime Energy
+2.0
+have it
+2.0
+13 to
+2.0
+both physical
+2.0
+I will
+2.0
+the collateral
+2.0
+the changes
+2.0
+one guaranty
+2.0
+Stephanie See
+2.0
+that this
+2.0
+of Enron
+2.0
+from New
+2.0
+covering e
+2.0
+further handling
+2.0
+connection with
+2.0
+note that
+2.0
+and financial
+2.0
+financial transactions
+2.0
+your further
+2.0
+the amendment
+2.0
+have not
+2.0
+713.345.3249 fax: 713.646.3490
+13.0
+Enron Wholesale Services
+13.0
+ph: 713.345.3249 fax:
+13.0
+1400 Smith Street,
+12.0
+fax: 713.646.3490 email:
+12.0
+Senior Legal Specialist
+12.0
+77002 ph: 713.345.3249
+12.0
+Street, EB3803C Houston,
+12.0
+Houston, Texas 77002
+12.0
+Smith Street, EB3803C
+12.0
+Legal Specialist Enron
+12.0
+713.646.3490 email: stephanie.panus@enron.com
+12.0
+Stephanie Panus Senior
+12.0
+EB3803C Houston, Texas
+12.0
+Wholesale Services 1400
+12.0
+Texas 77002 ph:
+12.0
+Panus Senior Legal
+12.0
+Specialist Enron Wholesale
+12.0
+Services 1400 Smith
+12.0
+you have any
+8.0
+at the below
+6.0
+ISDA Master Agreement
+6.0
+contact me at
+5.0
+If you have
+5.0
+me at the
+5.0
+Attached for your
+5.0
+Master Agreement between
+4.0
+Enron North America
+4.0
+the ISDA Master
+4.0
+North America Corp.
+4.0
+below number or
+4.0
+the below number
+4.0
+for your review
+3.0
+please contact me
+3.0
+any questions or
+3.0
+email: stephanie.panus@enron.com Mr.
+3.0
+have any questions
+3.0
+America Corp. and
+3.0
+your review is
+3.0
+Paragraph 13 to
+2.0
+Belco Oil &
+2.0
+See attached comments
+2.0
+have any questions.
+2.0
+have any questions,
+2.0
+Stephanie See attached
+2.0
+further handling are
+2.0
+me if you
+2.0
+the attached meets
+2.0
+attached comments from
+2.0
+Thanks, Stephanie Panus
+2.0
+Also attached is
+2.0
+questions or comments,
+2.0
+e prime Energy
+2.0
+meets with your
+2.0
+with various Enron
+2.0
+transactions with various
+2.0
+will then have
+2.0
+one guaranty covering
+2.0
+financial transactions with
+2.0
+in connection with
+2.0
+covering e prime
+2.0
+ISDA Master Agreement.
+2.0
+New Jersey Natural
+2.0
+in both physical
+2.0
+from New Jersey
+2.0
+13 to the
+2.0
+that this is
+2.0
+for your further
+2.0
+Jersey Natural Gas.
+2.0
+attached is a
+2.0
+Attached is the
+2.0
+your further handling
+2.0
+is the revised
+2.0
+or comments, please
+2.0
+with the ISDA
+2.0
+attached meets with
+2.0
+Please note that
+2.0
+have it executed
+2.0
+is a sample
+2.0
+Oil & Gas
+2.0
+Please call me
+2.0
+both physical and
+2.0
+and financial transactions
+2.0
+call me if
+2.0
+guaranty covering e
+2.0
+comments, please contact
+2.0
+physical and financial
+2.0
+prime Energy Marketing,
+2.0
+if you have
+2.0
+between Enron North
+2.0
+with your approval,
+2.0
+review is a
+2.0
+of the ISDA
+2.0
+questions, please contact
+2.0
+any questions, please
+2.0
+If the attached
+2.0
+Energy Marketing, Inc.
+2.0
+Agreement between Enron
+2.0
+number or Francisco
+2.0
+or Francisco at
+1.0
+have
+20.0
+Services
+14.0
+is
+14.0
+Senior
+13.0
+Wholesale
+13.0
+at
+13.0
+Legal
+12.0
+Smith
+12.0
+Specialist
+12.0
+Texas
+12.0
+a
+12.0
+me
+11.0
+Agreement
+10.0
+Attached
+10.0
+Master
+10.0
+attached
+9.0
+Energy
+8.0
+Please
+8.0
+any
+8.0
+below
+8.0
+in
+8.0
+or
+8.0
+please
+8.0
+Credit
+7.0
+I
+7.0
+are
+7.0
+between
+7.0
+Mr.
+6.0
+contact
+6.0
+on
+6.0
+will
+6.0
+executed
+5.0
+review
+5.0
+revised
+5.0
+13
+4.0
+America
+4.0
+North
+4.0
+Paragraph
+4.0
+by
+4.0
+comments
+4.0
+financial
+4.0
+not
+4.0
+number
+4.0
+Oil
+3.0
+See
+3.0
+Support
+3.0
+agreements
+3.0
+am
+3.0
+be
+3.0
+both
+3.0
+3.0
+1.0

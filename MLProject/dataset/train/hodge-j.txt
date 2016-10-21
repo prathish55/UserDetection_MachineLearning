@@ -1,0 +1,502 @@
+Thanks, Jeff
+25.0
+of the
+18.0
+I am
+16.0
+for the
+16.0
+will be
+15.0
+it is
+14.0
+cc: Subject:
+13.0
+I will
+13.0
+in the
+13.0
+Jeffrey T
+13.0
+Attached is
+13.0
+PM To:
+12.0
+I would
+12.0
+AM To:
+12.0
+to the
+12.0
+I have
+11.0
+is a
+11.0
+is the
+11.0
+me know
+11.0
+on the
+10.0
+for your
+10.0
+Enron North
+9.0
+to be
+9.0
+that I
+9.0
+Per our
+9.0
+Let me
+9.0
+prior to
+8.0
+Outlook 2000
+8.0
+the gas
+8.0
+Legal Temp
+8.0
+2000 Migration
+8.0
+would like
+8.0
+Thanks for
+8.0
+you have
+8.0
+to your
+7.0
+04:00:00 PM</OMNITimeRange>
+7.0
+Hodge/OU=Corp/O=Enron</OMNIPRINCIPAL> <OMNIExcludeFromView>D</OMNIExcludeFromView>
+7.0
+03:00:00 PM</OMNIReminderTime>
+7.0
+<OMNIORGTABLE>C0</OMNIORGTABLE> <OMNIDocAuthors>CN=John
+7.0
+<OMNIOrgConfidential>1</OMNIOrgConfidential> <OMNISendTo></OMNISendTo>
+7.0
+PM</OMNICalendarDateTime> <OMNIORGDONTDOUBLEBOOK></OMNIORGDONTDOUBLEBOOK>
+7.0
+<OMNISendTo></OMNISendTo> <OMNICopyTo></OMNICopyTo>
+7.0
+If you
+7.0
+<OMNIFrom>CN=John Hodge/OU=Corp/O=Enron</OMNIFrom>
+7.0
+<OMNIExcludeFromView>D</OMNIExcludeFromView> <OMNICHAIR>CN=John
+7.0
+North America
+7.0
+T Hodge/HOU/ECT@ECT
+7.0
+<OMNI$BusyName>CN=John Hodge/OU=Corp/O=Enron</OMNI$BusyName>
+7.0
+PM</OMNIEndDateTime> <OMNIPRINCIPAL>CN=John
+7.0
+<OMNI$ExpandGroups>3</OMNI$ExpandGroups> <OMNI$UpdatedBy>CN=John
+7.0
+<OMNIORGDONTDOUBLEBOOK></OMNIORGDONTDOUBLEBOOK> <OMNIORGTABLE>C0</OMNIORGTABLE>
+7.0
+03:00:00 PM</OMNIStartDate>
+7.0
+<OMNIForm>Appointment</OMNIForm> <OMNI$ExpandGroups>3</OMNI$ExpandGroups>
+7.0
+Subject: Re:
+7.0
+<OMNIBody></OMNIBody> <OMNIFrom>CN=John
+7.0
+03:00:00 PM</OMNIStartDateTime>
+7.0
+Hodge/HOU/ECT@ECT cc:
+7.0
+<OMNI$UpdatedBy>CN=John Hodge/OU=Corp/O=Enron</OMNI$UpdatedBy>
+7.0
+<OMNICHAIR>CN=John Hodge/OU=Corp/O=Enron</OMNICHAIR>
+7.0
+<OMNIDocAuthors>CN=John Hodge/OU=Corp/O=Enron</OMNIDocAuthors>
+7.0
+like to
+7.0
+<OMNICopyTo></OMNICopyTo> <OMNIBroadcast></OMNIBroadcast>
+7.0
+our discussion.
+7.0
+Hodge/OU=Corp/O=Enron</OMNIDocAuthors> <OMNIBody></OMNIBody>
+7.0
+<OMNIPRINCIPAL>CN=John Hodge/OU=Corp/O=Enron</OMNIPRINCIPAL>
+7.0
+03:00:00 PM</OMNICalendarDateTime>
+7.0
+AM</OMNI$Revisions> </OMNICalendarEntry>
+7.0
+you to
+6.0
+<OMNIBookFreeTime></OMNIBookFreeTime> <OMNIOrgConfidential>1</OMNIOrgConfidential>
+6.0
+04:00:00 PM</OMNI$NoPurge>
+6.0
+<OMNIBroadcast></OMNIBroadcast> <OMNI_ViewIcon>160</OMNI_ViewIcon>
+6.0
+Jeff Attached
+6.0
+04:00:00 PM</OMNIEndDateTime>
+6.0
+if you
+6.0
+PM</OMNIReminderTime> <OMNISubject>Origination
+6.0
+<OMNI$BusyPriority>1</OMNI$BusyPriority> <OMNI$BusyName>CN=John
+6.0
+Confidentiality Release
+6.0
+am forwarding
+6.0
+Hodge/Corp/Enron@ENRON cc:
+6.0
+Hodge/OU=Corp/O=Enron</OMNI$UpdatedBy> <OMNI$Revisions>01/22/2001
+6.0
+and the
+6.0
+<OMNIAppointmentType>0</OMNIAppointmentType> <OMNIDuration>1</OMNIDuration>
+6.0
+<OMNI_ViewIcon>160</OMNI_ViewIcon> <OMNIForm>Appointment</OMNIForm>
+6.0
+staff meeting</OMNISubject>
+6.0
+PM</OMNI$NoPurge> <OMNI$BusyPriority>1</OMNI$BusyPriority>
+6.0
+T Hodge/HOU/ECT@ECT,
+6.0
+</OMNICalendarEntry> <OMNICalendarEntry>
+6.0
+we can
+6.0
+Could you
+6.0
+John Hodge/Corp/Enron@ENRON
+6.0
+Hodge/OU=Corp/O=Enron</OMNIFrom> <OMNIAppointmentType>0</OMNIAppointmentType>
+6.0
+have any
+6.0
+PM</OMNITimeRange> <OMNIBookFreeTime></OMNIBookFreeTime>
+6.0
+Frank W
+6.0
+put it
+6.0
+Migration Team
+6.0
+Re: Confidentiality
+6.0
+it to
+6.0
+<OMNISubject>Origination staff
+6.0
+Office of
+5.0
+Let me know
+9.0
+Outlook 2000 Migration
+8.0
+<OMNIORGTABLE>C0</OMNIORGTABLE> <OMNIDocAuthors>CN=John Hodge/OU=Corp/O=Enron</OMNIDocAuthors>
+7.0
+<OMNISendTo></OMNISendTo> <OMNICopyTo></OMNICopyTo> <OMNIBroadcast></OMNIBroadcast>
+7.0
+<OMNIForm>Appointment</OMNIForm> <OMNI$ExpandGroups>3</OMNI$ExpandGroups> <OMNI$UpdatedBy>CN=John
+7.0
+PM</OMNICalendarDateTime> <OMNIORGDONTDOUBLEBOOK></OMNIORGDONTDOUBLEBOOK> <OMNIORGTABLE>C0</OMNIORGTABLE>
+7.0
+03:00:00 PM</OMNICalendarDateTime> <OMNIORGDONTDOUBLEBOOK></OMNIORGDONTDOUBLEBOOK>
+7.0
+<OMNIBody></OMNIBody> <OMNIFrom>CN=John Hodge/OU=Corp/O=Enron</OMNIFrom>
+7.0
+Jeffrey T Hodge/HOU/ECT@ECT
+7.0
+T Hodge/HOU/ECT@ECT cc:
+7.0
+Enron North America
+7.0
+<OMNIDocAuthors>CN=John Hodge/OU=Corp/O=Enron</OMNIDocAuthors> <OMNIBody></OMNIBody>
+7.0
+Per our discussion.
+7.0
+<OMNIExcludeFromView>D</OMNIExcludeFromView> <OMNICHAIR>CN=John Hodge/OU=Corp/O=Enron</OMNICHAIR>
+7.0
+PM</OMNIEndDateTime> <OMNIPRINCIPAL>CN=John Hodge/OU=Corp/O=Enron</OMNIPRINCIPAL>
+7.0
+Attached is a
+7.0
+<OMNIOrgConfidential>1</OMNIOrgConfidential> <OMNISendTo></OMNISendTo> <OMNICopyTo></OMNICopyTo>
+7.0
+<OMNIORGDONTDOUBLEBOOK></OMNIORGDONTDOUBLEBOOK> <OMNIORGTABLE>C0</OMNIORGTABLE> <OMNIDocAuthors>CN=John
+7.0
+Hodge/OU=Corp/O=Enron</OMNIDocAuthors> <OMNIBody></OMNIBody> <OMNIFrom>CN=John
+7.0
+Hodge/OU=Corp/O=Enron</OMNIPRINCIPAL> <OMNIExcludeFromView>D</OMNIExcludeFromView> <OMNICHAIR>CN=John
+7.0
+<OMNIPRINCIPAL>CN=John Hodge/OU=Corp/O=Enron</OMNIPRINCIPAL> <OMNIExcludeFromView>D</OMNIExcludeFromView>
+7.0
+would like to
+7.0
+<OMNI$ExpandGroups>3</OMNI$ExpandGroups> <OMNI$UpdatedBy>CN=John Hodge/OU=Corp/O=Enron</OMNI$UpdatedBy>
+7.0
+04:00:00 PM</OMNIEndDateTime> <OMNIPRINCIPAL>CN=John
+6.0
+Jeff Attached is
+6.0
+04:00:00 PM</OMNI$NoPurge> <OMNI$BusyPriority>1</OMNI$BusyPriority>
+6.0
+<OMNIBroadcast></OMNIBroadcast> <OMNI_ViewIcon>160</OMNI_ViewIcon> <OMNIForm>Appointment</OMNIForm>
+6.0
+<OMNICopyTo></OMNICopyTo> <OMNIBroadcast></OMNIBroadcast> <OMNI_ViewIcon>160</OMNI_ViewIcon>
+6.0
+<OMNI$BusyPriority>1</OMNI$BusyPriority> <OMNI$BusyName>CN=John Hodge/OU=Corp/O=Enron</OMNI$BusyName>
+6.0
+<OMNIBookFreeTime></OMNIBookFreeTime> <OMNIOrgConfidential>1</OMNIOrgConfidential> <OMNISendTo></OMNISendTo>
+6.0
+Jeffrey T Hodge/HOU/ECT@ECT,
+6.0
+Subject: Re: Confidentiality
+6.0
+<OMNIFrom>CN=John Hodge/OU=Corp/O=Enron</OMNIFrom> <OMNIAppointmentType>0</OMNIAppointmentType>
+6.0
+PM</OMNI$NoPurge> <OMNI$BusyPriority>1</OMNI$BusyPriority> <OMNI$BusyName>CN=John
+6.0
+Re: Confidentiality Release
+6.0
+<OMNI_ViewIcon>160</OMNI_ViewIcon> <OMNIForm>Appointment</OMNIForm> <OMNI$ExpandGroups>3</OMNI$ExpandGroups>
+6.0
+PM</OMNIReminderTime> <OMNISubject>Origination staff
+6.0
+<OMNI$UpdatedBy>CN=John Hodge/OU=Corp/O=Enron</OMNI$UpdatedBy> <OMNI$Revisions>01/22/2001
+6.0
+03:00:00 PM</OMNIReminderTime> <OMNISubject>Origination
+6.0
+<OMNISubject>Origination staff meeting</OMNISubject>
+6.0
+PM</OMNITimeRange> <OMNIBookFreeTime></OMNIBookFreeTime> <OMNIOrgConfidential>1</OMNIOrgConfidential>
+6.0
+Hodge/OU=Corp/O=Enron</OMNIFrom> <OMNIAppointmentType>0</OMNIAppointmentType> <OMNIDuration>1</OMNIDuration>
+6.0
+John Hodge/Corp/Enron@ENRON cc:
+6.0
+04:00:00 PM</OMNITimeRange> <OMNIBookFreeTime></OMNIBookFreeTime>
+6.0
+AM</OMNI$Revisions> </OMNICalendarEntry> <OMNICalendarEntry>
+6.0
+<OMNIReminderTime>01/30/2001 03:00:00 PM</OMNIReminderTime>
+5.0
+Hodge/OU=Corp/O=Enron</OMNICHAIR> <OMNI$NoPurge>01/30/2001 04:00:00
+5.0
+our discussion. Jeff
+5.0
+<OMNIDuration>1</OMNIDuration> <OMNIReminderTime>01/30/2001 03:00:00
+5.0
+I am forwarding
+5.0
+I will be
+5.0
+<OMNI$NoPurge>01/30/2001 04:00:00 PM</OMNI$NoPurge>
+5.0
+<OMNICHAIR>CN=John Hodge/OU=Corp/O=Enron</OMNICHAIR> <OMNI$NoPurge>01/30/2001
+5.0
+you have any
+5.0
+<OMNIAppointmentType>0</OMNIAppointmentType> <OMNIDuration>1</OMNIDuration> <OMNIReminderTime>01/30/2001
+5.0
+individual user information
+4.0
+is a memo
+4.0
+click on the
+4.0
+Smith/HOU/ECT@ECT, Nelson Ferries/Corp/Enron@ENRON,
+4.0
+necessary to gather
+4.0
+Please take a
+4.0
+To: Jeffrey T
+4.0
+With History' button
+4.0
+Thank you. Outlook
+4.0
+on document to
+4.0
+automatically be sent
+4.0
+minutes to completely
+4.0
+a few minutes
+4.0
+Thanks for the
+4.0
+experience a successful
+4.0
+AM To: John
+4.0
+Hodge/HOU/ECT@ECT cc: Subject:
+4.0
+hit 'Send' Your
+4.0
+a successful migration
+4.0
+from Notes to
+4.0
+take a few
+4.0
+the 'Reply With
+4.0
+button then hit
+4.0
+for your help.
+4.0
+successful migration from
+4.0
+will automatically be
+4.0
+it in "Edit"
+4.0
+sent to the
+4.0
+the Outlook 2000
+4.0
+it is OK
+4.0
+Migration Mailbox. Thank
+4.0
+then hit 'Send'
+4.0
+you. Outlook 2000
+4.0
+migration from Notes
+4.0
+user information prior
+4.0
+memo regarding the
+4.0
+completely fill out
+4.0
+to the Outlook
+4.0
+put it in
+4.0
+to gather individual
+4.0
+Mailbox. Thank you.
+4.0
+in "Edit" mode.
+4.0
+'Reply With History'
+4.0
+to completely fill
+4.0
+Taylor/HOU/ECT@ECT, David Jones/NA/Enron@ENRON,
+4.0
+I
+118.0
+is
+92.0
+a
+66.0
+will
+56.0
+be
+51.0
+it
+44.0
+on
+42.0
+in
+41.0
+have
+40.0
+me
+27.0
+at
+26.0
+but
+25.0
+are
+22.0
+as
+22.0
+can
+22.0
+John
+20.0
+know
+19.0
+am
+17.0
+any
+17.0
+has
+17.0
+not
+17.0
+AM
+16.0
+Attached
+16.0
+PM
+15.0
+an
+15.0
+do
+15.0
+get
+15.0
+or
+15.0
+T
+14.0
+out
+14.0
+was
+14.0
+Scott
+13.0
+Thanks
+13.0
+Migration
+12.0
+In
+11.0
+Mark
+11.0
+North
+11.0
+Outlook
+11.0
+Please
+11.0
+form
+11.0
+gas
+11.0
+some
+11.0
+David
+10.0
+Robert
+10.0
+by
+10.0
+information
+10.0
+need
+10.0
+think
+10.0
+Gas
+9.0
+Let
+9.0
+88.0
+20.0

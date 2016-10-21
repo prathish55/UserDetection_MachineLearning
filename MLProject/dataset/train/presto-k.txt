@@ -1,0 +1,502 @@
+</OMNICalendarEntry> <OMNICalendarEntry>
+709.0
+<OMNI$BusyName>CN=Kevin M
+704.0
+M Presto/OU=HOU/O=ECT</OMNI$BusyName>
+704.0
+<OMNI$UpdatedBy>CN=Tamara Jae
+474.0
+<OMNIForm>Appointment</OMNIForm> <OMNI$ExpandGroups>3</OMNI$ExpandGroups>
+468.0
+<OMNICHAIR>CN=Kevin M
+467.0
+M Presto/OU=HOU/O=ECT</OMNICHAIR>
+467.0
+<OMNIPrincipal>CN=Kevin M
+448.0
+Presto/OU=HOU/O=ECT</OMNIPrincipal> <OMNIExcludeFromView>D</OMNIExcludeFromView>
+448.0
+M Presto/OU=HOU/O=ECT</OMNIPrincipal>
+448.0
+<OMNIExcludeFromView>D</OMNIExcludeFromView> <OMNICHAIR>CN=Kevin
+448.0
+<OMNIBookFreeTime></OMNIBookFreeTime> <OMNIOrgConfidential></OMNIOrgConfidential>
+447.0
+<OMNIORGDONTDOUBLEBOOK></OMNIORGDONTDOUBLEBOOK> <OMNIORGTABLE>C0</OMNIORGTABLE>
+436.0
+<OMNISendTo></OMNISendTo> <OMNICopyTo></OMNICopyTo>
+424.0
+<OMNIOrgConfidential></OMNIOrgConfidential> <OMNISendTo></OMNISendTo>
+418.0
+<OMNICopyTo></OMNICopyTo> <OMNIBroadcast></OMNIBroadcast>
+407.0
+Jae Black/OU=HOU/O=ECT</OMNI$UpdatedBy>
+401.0
+<OMNIAppointmentType>0</OMNIAppointmentType> <OMNIDuration>1</OMNIDuration>
+390.0
+<OMNI_ViewIcon>160</OMNI_ViewIcon> <OMNIForm>Appointment</OMNIForm>
+390.0
+PM</OMNITimeRange> <OMNIBookFreeTime></OMNIBookFreeTime>
+383.0
+<OMNIBroadcast></OMNIBroadcast> <OMNI_ViewIcon>160</OMNI_ViewIcon>
+381.0
+PM</OMNI$NoPurge> <OMNI$BusyPriority>1</OMNI$BusyPriority>
+355.0
+AM</OMNI$Revisions> </OMNICalendarEntry>
+350.0
+PM</OMNIEndDateTime> <OMNIPrincipal>CN=Kevin
+345.0
+<OMNIORGTABLE>C0</OMNIORGTABLE> <OMNI$PublicAccess>1</OMNI$PublicAccess>
+342.0
+<OMNIDocAuthors>CN=Tamara Jae
+334.0
+Jae Black/OU=HOU/O=ECT</OMNIDocAuthors>
+334.0
+<OMNI$BusyPriority>1</OMNI$BusyPriority> <OMNI$BusyName>CN=Kevin
+334.0
+Jae Black/OU=HOU/O=ECT</OMNIFrom>
+333.0
+<OMNIFrom>CN=Tamara Jae
+333.0
+<OMNIBody></OMNIBody> <OMNIFrom>CN=Tamara
+331.0
+Black/OU=HOU/O=ECT</OMNIDocAuthors> <OMNIBody></OMNIBody>
+318.0
+Presto/OU=HOU/O=ECT</OMNI$BusyName> <OMNI$Busy>1</OMNI$Busy>
+305.0
+PM</OMNICalendarDateTime> <OMNIORGDONTDOUBLEBOOK></OMNIORGDONTDOUBLEBOOK>
+290.0
+Black/OU=HOU/O=ECT</OMNIFrom> <OMNIAppointmentType>0</OMNIAppointmentType>
+269.0
+<OMNI$ExpandGroups>3</OMNI$ExpandGroups> <OMNI$UpdatedBy>CN=Tamara
+261.0
+PM</OMNI$Revisions> </OMNICalendarEntry>
+251.0
+<OMNIDuration>1</OMNIDuration> <OMNIExcludeFromView>D</OMNIExcludeFromView>
+242.0
+<OMNI$PublicAccess>1</OMNI$PublicAccess> <OMNIDocAuthors>CN=Tamara
+235.0
+<OMNI$REF></OMNI$REF> <OMNI$RefOptions>1</OMNI$RefOptions>
+219.0
+M Presto/OU=HOU/O=ECT</OMNI$UpdatedBy>
+204.0
+<OMNIExcludeFromView>D</OMNIExcludeFromView> <OMNIAppointmentType>0</OMNIAppointmentType>
+200.0
+<OMNI$Busy>1</OMNI$Busy> <OMNIDuration>1</OMNIDuration>
+200.0
+05:00:00 PM</OMNI$NoPurge>
+169.0
+05:00:00 PM</OMNIEndDateTime>
+169.0
+<OMNI$PublicAccess>1</OMNI$PublicAccess> <OMNI$UpdatedBy>CN=Tamara
+167.0
+<OMNIBroadcast>1</OMNIBroadcast> <OMNI$PublicAccess>1</OMNI$PublicAccess>
+159.0
+<OMNI$RefOptions>1</OMNI$RefOptions> <OMNIForm>Appointment</OMNIForm>
+157.0
+AM</OMNICalendarDateTime> <OMNIORGDONTDOUBLEBOOK></OMNIORGDONTDOUBLEBOOK>
+139.0
+PM</OMNIOriginalDateTime> <OMNI$REF></OMNI$REF>
+131.0
+<OMNIOrgRepeat>1</OMNIOrgRepeat> <OMNIORGTABLE>C0</OMNIORGTABLE>
+125.0
+<OMNI$UpdatedBy>CN=Kevin M
+119.0
+<OMNIDocAuthors>CN=Felicia Doan/OU=HOU/O=ECT</OMNIDocAuthors>
+116.0
+<OMNIFrom>CN=Felicia Doan/OU=HOU/O=ECT</OMNIFrom>
+116.0
+<OMNIBody></OMNIBody> <OMNIFrom>CN=Felicia
+114.0
+PM</OMNI$NoPurge> <OMNI_ViewIcon>160</OMNI_ViewIcon>
+114.0
+04:00:00 PM</OMNIStartDate>
+113.0
+04:00:00 PM</OMNIStartDateTime>
+113.0
+04:00:00 PM</OMNICalendarDateTime>
+113.0
+Doan/OU=HOU/O=ECT</OMNIDocAuthors> <OMNIBody></OMNIBody>
+110.0
+Doan/OU=HOU/O=ECT</OMNIFrom> <OMNIAppointmentType>0</OMNIAppointmentType>
+108.0
+<OMNIAppointmentType>0</OMNIAppointmentType> <OMNIOrgRepeat>1</OMNIOrgRepeat>
+108.0
+<OMNI$ExpandGroups>3</OMNI$ExpandGroups> <OMNI$UpdatedBy>CN=Felicia
+99.0
+<OMNI$PublicAccess>1</OMNI$PublicAccess> <OMNI$UpdatedBy>CN=Kevin
+97.0
+<OMNI$PublicAccess>1</OMNI$PublicAccess> <OMNIDocAuthors>CN=Felicia
+96.0
+in the
+94.0
+<OMNI$UpdatedBy>CN=Felicia Doan/OU=HOU/O=ECT</OMNI$UpdatedBy>
+92.0
+AM</OMNICreatedDate> <OMNIORGTABLE>C0</OMNIORGTABLE>
+91.0
+Mtg. -
+88.0
+<OMNIAppointmentType>0</OMNIAppointmentType> <OMNI_ViewIcon>160</OMNI_ViewIcon>
+88.0
+04:00:00 PM</OMNIOriginalDateTime>
+87.0
+Jae Black/OU=HOU/O=ECT;CN=Kevin
+85.0
+Black/OU=HOU/O=ECT;CN=Kevin M
+85.0
+<OMNIORGTABLE>C0</OMNIORGTABLE> <OMNIForm>Appointment</OMNIForm>
+84.0
+of the
+83.0
+P.O. Box
+82.0
+<OMNI_ViewIcon>160</OMNI_ViewIcon> <OMNIBroadcast>1</OMNIBroadcast>
+77.0
+AM</OMNICreatedDate> <OMNIORGDONTDOUBLEBOOK>1</OMNIORGDONTDOUBLEBOOK>
+76.0
+I would
+73.0
+PM</OMNIReminderTime> <OMNISubject>Mtg.
+65.0
+AM</OMNITimeRange> <OMNIBookFreeTime></OMNIBookFreeTime>
+64.0
+02:00:00 PM</OMNIStartDate>
+63.0
+02:00:00 PM</OMNIStartDateTime>
+63.0
+02:00:00 PM</OMNICalendarDateTime>
+63.0
+01:00:00 PM</OMNICalendarDateTime>
+62.0
+01:00:00 PM</OMNIStartDateTime>
+62.0
+01:00:00 PM</OMNIStartDate>
+62.0
+I have
+61.0
+01:00:00 PM</OMNIEndDateTime>
+60.0
+11:30:00 AM</OMNIStartDate>
+60.0
+01:00:00 PM</OMNI$NoPurge>
+60.0
+11:30:00 AM</OMNICalendarDateTime>
+60.0
+11:30:00 AM</OMNIStartDateTime>
+60.0
+Black/OU=HOU/O=ECT</OMNI$UpdatedBy> </OMNICalendarEntry>
+57.0
+need to
+57.0
+for the
+57.0
+PM</OMNI$NoPurge> <OMNI$BusyName>CN=Kevin
+56.0
+I will
+56.0
+will be
+56.0
+w/John Lavorato
+56.0
+<OMNI$BusyName>CN=Kevin M Presto/OU=HOU/O=ECT</OMNI$BusyName>
+704.0
+<OMNICHAIR>CN=Kevin M Presto/OU=HOU/O=ECT</OMNICHAIR>
+467.0
+M Presto/OU=HOU/O=ECT</OMNIPrincipal> <OMNIExcludeFromView>D</OMNIExcludeFromView>
+448.0
+Presto/OU=HOU/O=ECT</OMNIPrincipal> <OMNIExcludeFromView>D</OMNIExcludeFromView> <OMNICHAIR>CN=Kevin
+448.0
+<OMNIExcludeFromView>D</OMNIExcludeFromView> <OMNICHAIR>CN=Kevin M
+448.0
+<OMNIPrincipal>CN=Kevin M Presto/OU=HOU/O=ECT</OMNIPrincipal>
+448.0
+<OMNIOrgConfidential></OMNIOrgConfidential> <OMNISendTo></OMNISendTo> <OMNICopyTo></OMNICopyTo>
+418.0
+<OMNIBookFreeTime></OMNIBookFreeTime> <OMNIOrgConfidential></OMNIOrgConfidential> <OMNISendTo></OMNISendTo>
+409.0
+<OMNISendTo></OMNISendTo> <OMNICopyTo></OMNICopyTo> <OMNIBroadcast></OMNIBroadcast>
+407.0
+<OMNI_ViewIcon>160</OMNI_ViewIcon> <OMNIForm>Appointment</OMNIForm> <OMNI$ExpandGroups>3</OMNI$ExpandGroups>
+390.0
+<OMNI$UpdatedBy>CN=Tamara Jae Black/OU=HOU/O=ECT</OMNI$UpdatedBy>
+385.0
+PM</OMNITimeRange> <OMNIBookFreeTime></OMNIBookFreeTime> <OMNIOrgConfidential></OMNIOrgConfidential>
+383.0
+<OMNIBroadcast></OMNIBroadcast> <OMNI_ViewIcon>160</OMNI_ViewIcon> <OMNIForm>Appointment</OMNIForm>
+381.0
+<OMNICopyTo></OMNICopyTo> <OMNIBroadcast></OMNIBroadcast> <OMNI_ViewIcon>160</OMNI_ViewIcon>
+378.0
+AM</OMNI$Revisions> </OMNICalendarEntry> <OMNICalendarEntry>
+350.0
+PM</OMNIEndDateTime> <OMNIPrincipal>CN=Kevin M
+345.0
+<OMNIORGDONTDOUBLEBOOK></OMNIORGDONTDOUBLEBOOK> <OMNIORGTABLE>C0</OMNIORGTABLE> <OMNI$PublicAccess>1</OMNI$PublicAccess>
+342.0
+<OMNIDocAuthors>CN=Tamara Jae Black/OU=HOU/O=ECT</OMNIDocAuthors>
+334.0
+<OMNI$BusyPriority>1</OMNI$BusyPriority> <OMNI$BusyName>CN=Kevin M
+334.0
+<OMNIFrom>CN=Tamara Jae Black/OU=HOU/O=ECT</OMNIFrom>
+333.0
+<OMNIBody></OMNIBody> <OMNIFrom>CN=Tamara Jae
+331.0
+Jae Black/OU=HOU/O=ECT</OMNIDocAuthors> <OMNIBody></OMNIBody>
+318.0
+Black/OU=HOU/O=ECT</OMNIDocAuthors> <OMNIBody></OMNIBody> <OMNIFrom>CN=Tamara
+317.0
+M Presto/OU=HOU/O=ECT</OMNI$BusyName> <OMNI$Busy>1</OMNI$Busy>
+305.0
+PM</OMNICalendarDateTime> <OMNIORGDONTDOUBLEBOOK></OMNIORGDONTDOUBLEBOOK> <OMNIORGTABLE>C0</OMNIORGTABLE>
+290.0
+PM</OMNI$NoPurge> <OMNI$BusyPriority>1</OMNI$BusyPriority> <OMNI$BusyName>CN=Kevin
+288.0
+Black/OU=HOU/O=ECT</OMNIFrom> <OMNIAppointmentType>0</OMNIAppointmentType> <OMNIDuration>1</OMNIDuration>
+269.0
+Jae Black/OU=HOU/O=ECT</OMNIFrom> <OMNIAppointmentType>0</OMNIAppointmentType>
+269.0
+<OMNI$ExpandGroups>3</OMNI$ExpandGroups> <OMNI$UpdatedBy>CN=Tamara Jae
+261.0
+<OMNIForm>Appointment</OMNIForm> <OMNI$ExpandGroups>3</OMNI$ExpandGroups> <OMNI$UpdatedBy>CN=Tamara
+261.0
+PM</OMNI$Revisions> </OMNICalendarEntry> <OMNICalendarEntry>
+251.0
+<OMNI$PublicAccess>1</OMNI$PublicAccess> <OMNIDocAuthors>CN=Tamara Jae
+235.0
+<OMNIORGTABLE>C0</OMNIORGTABLE> <OMNI$PublicAccess>1</OMNI$PublicAccess> <OMNIDocAuthors>CN=Tamara
+222.0
+Presto/OU=HOU/O=ECT</OMNI$BusyName> <OMNI$Busy>1</OMNI$Busy> <OMNIDuration>1</OMNIDuration>
+200.0
+<OMNIDuration>1</OMNIDuration> <OMNIExcludeFromView>D</OMNIExcludeFromView> <OMNIAppointmentType>0</OMNIAppointmentType>
+200.0
+<OMNI$Busy>1</OMNI$Busy> <OMNIDuration>1</OMNIDuration> <OMNIExcludeFromView>D</OMNIExcludeFromView>
+200.0
+<OMNI$PublicAccess>1</OMNI$PublicAccess> <OMNI$UpdatedBy>CN=Tamara Jae
+167.0
+<OMNI$REF></OMNI$REF> <OMNI$RefOptions>1</OMNI$RefOptions> <OMNIForm>Appointment</OMNIForm>
+157.0
+AM</OMNICalendarDateTime> <OMNIORGDONTDOUBLEBOOK></OMNIORGDONTDOUBLEBOOK> <OMNIORGTABLE>C0</OMNIORGTABLE>
+133.0
+PM</OMNIOriginalDateTime> <OMNI$REF></OMNI$REF> <OMNI$RefOptions>1</OMNI$RefOptions>
+131.0
+<OMNIBroadcast>1</OMNIBroadcast> <OMNI$PublicAccess>1</OMNI$PublicAccess> <OMNI$UpdatedBy>CN=Tamara
+121.0
+<OMNIBody></OMNIBody> <OMNIFrom>CN=Felicia Doan/OU=HOU/O=ECT</OMNIFrom>
+114.0
+<OMNI$UpdatedBy>CN=Kevin M Presto/OU=HOU/O=ECT</OMNI$UpdatedBy>
+113.0
+<OMNIDocAuthors>CN=Felicia Doan/OU=HOU/O=ECT</OMNIDocAuthors> <OMNIBody></OMNIBody>
+110.0
+Doan/OU=HOU/O=ECT</OMNIDocAuthors> <OMNIBody></OMNIBody> <OMNIFrom>CN=Felicia
+110.0
+<OMNIFrom>CN=Felicia Doan/OU=HOU/O=ECT</OMNIFrom> <OMNIAppointmentType>0</OMNIAppointmentType>
+108.0
+Doan/OU=HOU/O=ECT</OMNIFrom> <OMNIAppointmentType>0</OMNIAppointmentType> <OMNIDuration>1</OMNIDuration>
+108.0
+<OMNIExcludeFromView>D</OMNIExcludeFromView> <OMNIAppointmentType>0</OMNIAppointmentType> <OMNIOrgRepeat>1</OMNIOrgRepeat>
+108.0
+<OMNIAppointmentType>0</OMNIAppointmentType> <OMNIOrgRepeat>1</OMNIOrgRepeat> <OMNIORGTABLE>C0</OMNIORGTABLE>
+108.0
+<OMNIForm>Appointment</OMNIForm> <OMNI$ExpandGroups>3</OMNI$ExpandGroups> <OMNI$UpdatedBy>CN=Felicia
+99.0
+<OMNI$PublicAccess>1</OMNI$PublicAccess> <OMNI$UpdatedBy>CN=Kevin M
+97.0
+<OMNI$PublicAccess>1</OMNI$PublicAccess> <OMNIDocAuthors>CN=Felicia Doan/OU=HOU/O=ECT</OMNIDocAuthors>
+96.0
+<OMNI$ExpandGroups>3</OMNI$ExpandGroups> <OMNI$UpdatedBy>CN=Felicia Doan/OU=HOU/O=ECT</OMNI$UpdatedBy>
+91.0
+<OMNIORGTABLE>C0</OMNIORGTABLE> <OMNI$PublicAccess>1</OMNI$PublicAccess> <OMNIDocAuthors>CN=Felicia
+90.0
+Jae Black/OU=HOU/O=ECT;CN=Kevin M
+85.0
+<OMNIExcludeFromView>D</OMNIExcludeFromView> <OMNIAppointmentType>0</OMNIAppointmentType> <OMNI_ViewIcon>160</OMNI_ViewIcon>
+84.0
+<OMNI$UpdatedBy>CN=Tamara Jae Black/OU=HOU/O=ECT;CN=Kevin
+83.0
+05:00:00 PM</OMNI$NoPurge> <OMNI_ViewIcon>160</OMNI_ViewIcon>
+78.0
+Black/OU=HOU/O=ECT;CN=Kevin M Presto/OU=HOU/O=ECT</OMNI$UpdatedBy>
+77.0
+<OMNI_ViewIcon>160</OMNI_ViewIcon> <OMNIBroadcast>1</OMNIBroadcast> <OMNI$PublicAccess>1</OMNI$PublicAccess>
+73.0
+PM</OMNI$NoPurge> <OMNI_ViewIcon>160</OMNI_ViewIcon> <OMNIBroadcast>1</OMNIBroadcast>
+73.0
+AM</OMNITimeRange> <OMNIBookFreeTime></OMNIBookFreeTime> <OMNIOrgConfidential></OMNIOrgConfidential>
+64.0
+Jae Black/OU=HOU/O=ECT</OMNI$UpdatedBy> </OMNICalendarEntry>
+57.0
+Black/OU=HOU/O=ECT</OMNI$UpdatedBy> </OMNICalendarEntry> <OMNICalendarEntry>
+56.0
+PM</OMNI$NoPurge> <OMNI$BusyName>CN=Kevin M
+56.0
+<OMNI_ViewIcon>158</OMNI_ViewIcon> <OMNIForm>Appointment</OMNIForm> <OMNI$ExpandGroups>3</OMNI$ExpandGroups>
+55.0
+11:30:00 AM</OMNICalendarDateTime> <OMNIORGDONTDOUBLEBOOK></OMNIORGDONTDOUBLEBOOK>
+51.0
+<OMNIORGDONTDOUBLEBOOK></OMNIORGDONTDOUBLEBOOK> <OMNIORGTABLE>C0</OMNIORGTABLE> <OMNISEQUENCENUM>1</OMNISEQUENCENUM>
+51.0
+<OMNIORGTABLE>C0</OMNIORGTABLE> <OMNISEQUENCENUM>1</OMNISEQUENCENUM> <OMNI$PublicAccess>1</OMNI$PublicAccess>
+51.0
+AM</OMNIEndDateTime> <OMNIPrincipal>CN=Kevin M
+50.0
+Black/OU=HOU/O=ECT</OMNIFrom> <OMNIAppointmentType>3</OMNIAppointmentType> <OMNIDuration>1</OMNIDuration>
+47.0
+Jae Black/OU=HOU/O=ECT</OMNIFrom> <OMNIAppointmentType>3</OMNIAppointmentType>
+47.0
+Presto/OU=HOU/O=ECT</OMNI$UpdatedBy> </OMNICalendarEntry> <OMNICalendarEntry>
+46.0
+M Presto/OU=HOU/O=ECT</OMNI$UpdatedBy> </OMNICalendarEntry>
+46.0
+Lavorato rm 3308</OMNISubject>
+45.0
+03:45:00 PM</OMNIOriginalDateTime> <OMNI$REF></OMNI$REF>
+45.0
+01:00:00 PM</OMNITimeRange> <OMNIBookFreeTime></OMNIBookFreeTime>
+45.0
+Presto/OU=HOU/O=ECT</OMNI$BusyName> <OMNI$REF></OMNI$REF> <OMNI$RefOptions>1</OMNI$RefOptions>
+45.0
+AM</OMNI$NoPurge> <OMNI$BusyPriority>1</OMNI$BusyPriority> <OMNI$BusyName>CN=Kevin
+45.0
+M Presto/OU=HOU/O=ECT</OMNI$BusyName> <OMNI$REF></OMNI$REF>
+45.0
+Mtg. - room
+45.0
+w/John Lavorato rm
+44.0
+<OMNI$RefOptions>1</OMNI$RefOptions> <OMNI$UpdatedBy>CN=Tamara Jae
+44.0
+<OMNIOriginalDateTime>01/23/2001 04:00:00 PM</OMNIOriginalDateTime>
+44.0
+<OMNISubject>Fundamentals Mtg. -
+44.0
+Jae Black/OU=HOU/O=ECT</OMNI$UpdatedBy> <OMNI$Revisions>01/09/2001
+44.0
+01:00:00 PM</OMNI$NoPurge> <OMNI$BusyPriority>1</OMNI$BusyPriority>
+44.0
+01:00:00 PM</OMNIEndDateTime> <OMNIPrincipal>CN=Kevin
+44.0
+<OMNI$RefOptions>1</OMNI$RefOptions> <OMNIForm>Appointment</OMNIForm> <OMNI_ViewIcon>160</OMNI_ViewIcon>
+43.0
+Jae Black/OU=HOU/O=ECT</OMNI$UpdatedBy> <OMNI$Revisions>01/23/2001
+43.0
+01:00:00 PM</OMNICalendarDateTime> <OMNIORGDONTDOUBLEBOOK></OMNIORGDONTDOUBLEBOOK>
+43.0
+Mtg. w/John Lavorato
+43.0
+<OMNISubject>Weekly Mtg. w/John
+43.0
+<OMNI$REF></OMNI$REF> <OMNI$RefOptions>1</OMNI$RefOptions> <OMNI$UpdatedBy>CN=Tamara
+43.0
+AM</OMNIRepeatStartDate> <OMNIDocAuthors>CN=Tamara Jae
+43.0
+PM</OMNICreatedDate> <OMNIORGTABLE>C0</OMNIORGTABLE> <OMNIForm>Appointment</OMNIForm>
+43.0
+05:00:00 PM</OMNITimeRange> <OMNIBookFreeTime></OMNIBookFreeTime>
+43.0
+04:00:00 PM</OMNIOriginalDateTime> <OMNI$REF></OMNI$REF>
+42.0
+rm 3308</OMNISubject> <OMNIOrgRepeat>1</OMNIOrgRepeat>
+42.0
+<OMNI_ViewIcon>160</OMNI_ViewIcon> <OMNIDuration>1</OMNIDuration> <OMNIExcludeFromView>D</OMNIExcludeFromView>
+42.0
+M
+1878.0
+I
+602.0
+is
+349.0
+in
+345.0
+a
+326.0
+on
+232.0
+have
+221.0
+will
+212.0
+be
+203.0
+are
+176.0
+Box
+172.0
+at
+154.0
+Please
+153.0
+Power
+144.0
+can
+101.0
+East
+99.0
+need
+98.0
+Suite
+95.0
+not
+94.0
+all
+89.0
+get
+86.0
+an
+84.0
+P.O.
+82.0
+as
+80.0
+me
+79.0
+like
+76.0
+am
+66.0
+by
+64.0
+has
+62.0
+make
+62.0
+it
+52.0
+room
+52.0
+NE
+48.0
+think
+48.0
+was
+48.0
+Electric
+45.0
+trading
+44.0
+New
+42.0
+Roundtable
+42.0
+Trading
+42.0
+up
+42.0
+any
+41.0
+In
+40.0
+meeting
+40.0
+or
+40.0
+so
+40.0
+Energy
+39.0
+Street
+39.0
+new
+37.0
+very
+37.0
+518.0
+259.0
